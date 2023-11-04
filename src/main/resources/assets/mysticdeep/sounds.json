@@ -1,0 +1,19 @@
+{
+    "like_flames": {
+        "sounds": [
+            {
+                "name": "mysticdeep:like_flames",
+                "stream": true
+            }
+            
+        ]
+    },
+    "gear_five": {
+        "sounds": [
+            {
+                "name": "mysticdeep:gear_five",
+                "stream": true
+            }
+        ]
+    }
+}

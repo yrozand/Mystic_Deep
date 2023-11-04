@@ -13,7 +13,7 @@
 		"sources": "https://github.com/yrozand/Mystic_Deep"
 	},
 	"license": "CC0-1.0",
-	"icon": "src/main/ressources/assets/mysticdeep/icon.png",
+	"icon": "assets/mysticdeep/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

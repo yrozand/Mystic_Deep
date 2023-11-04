@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        },
+        {
+            "item": "mysticdeep:marinite_raw" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:raw_marinite_block",
+        "count": 1
+    }
+}

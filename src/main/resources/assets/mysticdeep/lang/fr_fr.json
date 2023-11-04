@@ -1,0 +1,34 @@
+{
+    "item.mysticdeep.likes.flames.music.disc": "Disque Like Flames",
+    "item.mysticdeep.likes.flames.music.disc.desc":"MindaRyn - Like Flames",
+
+    "item.mysticdeep.gear.five.music.disc": "Disque Drums of Liberation",
+    "item.mysticdeep.gear.five.music.disc.desc":"One Peace - Drums of Liberation",
+
+    "item.mysticdeep.marinite_raw": "Marinite brute",
+  
+    "item.mysticdeep.marinite_ingot": "Lingot de Marinite",
+    "item.mysticdeep.abyssite_ingot": "Lingot de Abyssite",
+    "item.mysticdeep.earthcore_ingot": "Lingot de Earthcore",
+    "item.mysticdeep.flamestone_ingot": "Lingot de Flamestone",
+    "item.mysticdeep.shadow_ingot": "Lingot de Shadow",
+
+    "item.mysticdeep.marinite_gems": "Gemme de Marinite",
+    "item.mysticdeep.abyssite_gems": "Gemme de Abyssite",
+    "item.mysticdeep.earthcore_gems": "Gemme de Earthcore",
+    "item.mysticdeep.flamestone_gems": "Gemme de Flamestone",
+    "item.mysticdeep.shadow_gems": "Gemme de Shadow",
+
+    "block.mysticdeep.raw_marinite_block": "Bloc de Marinite brute",
+    "block.mysticdeep.marinite_block": "Bloc de Marinite",
+    "block.mysticdeep.abyssite_block": "Bloc de Abyssite",
+    "block.mysticdeep.earthcore_block": "Bloc de Earthcore",
+    "block.mysticdeep.flamestone_block": "Bloc de Flamestone",
+    "block.mysticdeep.shadow_block": "Bloc de Shadow",
+
+    "block.mysticdeep.marinite_ore_block": "Minerai de Marinite",
+    "block.mysticdeep.deepslate_marinite_ore_block": "Minerai de Marinite des abîmes",
+
+    "itemgroup.MysticDeep": "Mystic Deep"
+  }
+  

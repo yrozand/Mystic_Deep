@@ -1,0 +1,35 @@
+{
+    "item.mysticdeep.like.flames.music.disc": "Like Flames Music Disc",
+    "item.mysticdeep.like.flames.music.disc.desc":"MindaRyn - Like Flames",
+
+    "item.mysticdeep.gear.five.music.disc": "Drums of Liberation Music Disc",
+    "item.mysticdeep.gear.five.music.disc.desc":"One Peace - Drums of Liberation",
+    
+
+    "item.mysticdeep.marinite_raw": "Raw Marinite",
+
+    "item.mysticdeep.marinite_ingot": "Marinite Ingot",
+    "item.mysticdeep.abyssite_ingot": "Abyssite Ingot",
+    "item.mysticdeep.earthcore_ingot": "Earthcore Ingot",
+    "item.mysticdeep.flamestone_ingot": "Flamestone Ingot",
+    "item.mysticdeep.shadow_ingot": "Shadow Ingot",
+    
+    "item.mysticdeep.marinite_gems": "Gems of Marinite",
+    "item.mysticdeep.abyssite_gems": "Gems of Abyssite",
+    "item.mysticdeep.earthcore_gems": "Gems of Earthcore",
+    "item.mysticdeep.flamestone_gems": "Gems of Flamestone",
+    "item.mysticdeep.shadow_gems": "Gems of Shadow",
+
+    "block.mysticdeep.raw_marinite_block": "Block of Raw Marinite",
+    "block.mysticdeep.marinite_block": "Block of Marinite",
+    "block.mysticdeep.abyssite_block": "Block of Abyssite",
+    "block.mysticdeep.earthcore_block": "Block of Earthcore",
+    "block.mysticdeep.flamestone_block": "Block of Flamestone",
+    "block.mysticdeep.shadow_block": "Block of Shadow",
+
+    "block.mysticdeep.marinite_ore_block": "Marinite Ore",
+    "block.mysticdeep.deepslate_marinite_ore_block": "Deepslate Marinite Ore",
+
+    "itemgroup.MysticDeep": "Mystic Deep"
+  }
+  

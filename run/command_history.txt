@@ -1,1 +1,18 @@
 /give @a mysticdeep:marinite_ingot
+/give @a minecraft:command_block
+/give @a mysticdeep:marinite_raw
+/give @a mysticdeep:marinite_ingot
+/advancement grant @a everything
+/give @a mysticdeep:marinite_block
+/give @a mysticdeep:manirite_block
+/give @a mysticdeep:marinite_block
+/give @a mysticdeep:raw_marinite_blockeep:marinite_block
+/give @a mysticdeep:raw_marinite_block
+/give @a mysticdeep:marinite_block
+/give @a mysticdeep:deepslate_marinite_ore_block
+/give @a mysticdeep:marinite_ore_block
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give @a mysticdeep:marinite_gems
+/gamemode creative

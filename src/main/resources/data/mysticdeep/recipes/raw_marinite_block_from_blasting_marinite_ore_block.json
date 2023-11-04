@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 100,
+    "experience": 0.7,
+    "group": "marinite_ingot",
+    "ingredient": {
+      "item": "mysticdeep:marinite_ore_block"
+    },
+    "result": "mysticdeep:marinite_raw"
+  }

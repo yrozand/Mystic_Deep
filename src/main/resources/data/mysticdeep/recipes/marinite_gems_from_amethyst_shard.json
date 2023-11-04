@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "minecraft:amethyst_shard" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        },
+        {
+            "item": "mysticdeep:marinite_block" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:marinite_gems",
+        "count": 1
+    }
+}

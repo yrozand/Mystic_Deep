@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "mysticdeep:block/raw_marinite_block"
+    }
+}
