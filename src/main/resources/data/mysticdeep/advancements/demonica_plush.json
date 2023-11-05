@@ -1,0 +1,20 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:demonica_plush"
+      },
+      "title": "Démonica Plushie",
+      "description": "A demoness who likes lava baths",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {},
+    "requirements": [
+      [
+        "mysticdeep:demonica_plush"
+      ]
+    ]
+  }
+  

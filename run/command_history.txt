@@ -16,3 +16,12 @@
 /gamemode survival
 /give @a mysticdeep:marinite_gems
 /gamemode creative
+/reload
+/datapack list
+/trigger if_invisible
+/trigger as_trigger
+/function armor_statues:admin
+/function armor_statues:admin/book_from_help_toggle
+/give @a minecraft:barrier
+/fill 30 -55 -8
+/fill 30 -55 -8 36 -59 -8 air

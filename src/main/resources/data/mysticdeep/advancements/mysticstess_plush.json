@@ -1,0 +1,20 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:mysticstess_plush"
+      },
+      "title": "Mystic stess Plushie",
+      "description": "An astral witch who will make you potions, one funnier than the other",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {},
+    "requirements": [
+      [
+        "mysticdeep:mysticstess_plush"
+      ]
+    ]
+  }
+  

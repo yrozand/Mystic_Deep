@@ -22,8 +22,13 @@ public class ModItems {
     public static final Item FLAMESTONE_INGOT = registerItem("flamestone_ingot", new Item(new FabricItemSettings()));
     public static final Item SHADOW_GEMS = registerItem("shadow_gems", new Item(new FabricItemSettings()));
     public static final Item SHADOW_INGOT = registerItem("shadow_ingot", new Item(new FabricItemSettings()));
-    public static final Item MUSIC_LIKE_FLAMES = registerItem("likes_flames_music_disc", new MusicDiscItem(7, ModSound.LIKE_FLAMES, new FabricItemSettings().maxCount(1), 250));
     public static final Item MUSIC_GEAR_FIVE = registerItem("gear_five_music_disc", new MusicDiscItem(7, ModSound.GEAR_FIVE, new FabricItemSettings().maxCount(1), 250));
+    public static final Item MUSIC_BOYZ_PARIS = registerItem("boyz_in_paris_music_disc", new MusicDiscItem(7, ModSound.BOYZ_PARIS, new FabricItemSettings().maxCount(1), 151));
+    public static final Item SETSUKO_PLUSH = registerItem("setsuko_plush", new Item(new FabricItemSettings()));
+    public static final Item MYSTICSTESS_PLUSH = registerItem("mysticstess_plush", new Item(new FabricItemSettings()));
+    public static final Item DEMONICA_PLUSH = registerItem("demonica_plush", new Item(new FabricItemSettings()));
+
+
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries){
         entries.add(MARINITE_INGOT);
@@ -40,8 +45,6 @@ public class ModItems {
     }
 
     private static void addItemsToOUTILSTabItemGroup(FabricItemGroupEntries entries){
-        entries.add(MUSIC_LIKE_FLAMES);
-        entries.add(MUSIC_GEAR_FIVE);
     }
 
     private static Item registerItem(String name, Item item){

@@ -1,6 +1,6 @@
 {
-    "item.mysticdeep.like.flames.music.disc": "Like Flames Music Disc",
-    "item.mysticdeep.like.flames.music.disc.desc":"MindaRyn - Like Flames",
+    "item.mysticdeep.boyz.in.paris.music.disc": "Like Flames Music Disc",
+    "item.mysticdeep.boyz.in.paris.music.disc.desc":"MindaRyn - Like Flames",
 
     "item.mysticdeep.gear.five.music.disc": "Drums of Liberation Music Disc",
     "item.mysticdeep.gear.five.music.disc.desc":"One Peace - Drums of Liberation",
@@ -29,6 +29,10 @@
 
     "block.mysticdeep.marinite_ore_block": "Marinite Ore",
     "block.mysticdeep.deepslate_marinite_ore_block": "Deepslate Marinite Ore",
+
+    "item.mysticdeep.setsuko_plush": "Setsuko Plushie",
+    "item.mysticdeep.demonica_plush": "Démonica Plushie",
+    "item.mysticdeep.mysticstess_plush": "Mystic stess Plushie",
 
     "itemgroup.MysticDeep": "Mystic Deep"
   }

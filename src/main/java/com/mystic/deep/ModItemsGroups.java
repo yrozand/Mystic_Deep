@@ -32,8 +32,9 @@ public class ModItemsGroups {
                 entries.add(ModItems.SHADOW_GEMS);
                 entries.add(ModItems.SHADOW_INGOT);
                 entries.add(ModBlocks.SHADOW_BLOCK);
-                entries.add(ModItems.MUSIC_LIKE_FLAMES);
-                entries.add(ModItems.MUSIC_GEAR_FIVE);
+                entries.add(ModItems.SETSUKO_PLUSH);
+                entries.add(ModItems.DEMONICA_PLUSH);
+                entries.add(ModItems.MYSTICSTESS_PLUSH);
             }).build());
 
     public static void registerModItemsGroups(){
