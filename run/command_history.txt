@@ -1,7 +1,4 @@
 /give @a mysticdeep:marinite_ingot
-/give @a minecraft:command_block
-/give @a mysticdeep:marinite_raw
-/give @a mysticdeep:marinite_ingot
 /advancement grant @a everything
 /give @a mysticdeep:marinite_block
 /give @a mysticdeep:manirite_block
@@ -25,3 +22,29 @@
 /give @a minecraft:barrier
 /fill 30 -55 -8
 /fill 30 -55 -8 36 -59 -8 air
+/give @a minecraft:glass_pane
+/give @a mysticdeep:boyz_in_paris_music_disc
+/effect give @a minecraft:strength infinite 255 true
+/give @a minecraft:obsidian 64
+/fill ~-8 0 ~-8 ~8 ~-16 ~8 minecraft:air replace minecraft:stone
+/effect give @a minecraft:night_vision infinite 255 true
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/spawnpoint
+/fill ~-8 0 ~-8 ~8 ~-16 ~8 minecraft:air replace minecraft:stone
+/gamemode spectator
+/gamemode creative
+/fill ~-16 0 ~-16 ~16 ~-16 ~16 minecraft:air replace minecraft:stone
+/fill ~-16 0 ~-16 ~16 ~-10 ~10 minecraft:air replace minecraft:stone
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:stone
+/gamemode spectator
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:diorite
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:stone
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:andesite
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:granite
+/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace dirt
+/gamemode creative
+/gamemode spectator
+/gamemode creative
