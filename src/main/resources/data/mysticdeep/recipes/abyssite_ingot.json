@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mysticdeep:abyssite_gems"
+        },
+        {
+            "item": "mysticdeep:marinite_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticdeep:abyssite_ingot",
+        "count": 1
+    }
+}

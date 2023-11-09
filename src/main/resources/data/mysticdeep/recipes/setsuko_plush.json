@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PYP",
+        " P "
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:shadow_gems"
+        },
+        "P": {
+            "item": "minecraft:purple_wool"
+        },
+        "Y": {
+            "item": "mysticdeep:beer_chope"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:setsuko_plush",
+        "count": 1
+    }
+}

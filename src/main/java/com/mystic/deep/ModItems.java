@@ -5,7 +5,6 @@ import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
-import net.minecraft.item.MusicDiscItem;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -22,12 +21,11 @@ public class ModItems {
     public static final Item FLAMESTONE_INGOT = registerItem("flamestone_ingot", new Item(new FabricItemSettings()));
     public static final Item SHADOW_GEMS = registerItem("shadow_gems", new Item(new FabricItemSettings()));
     public static final Item SHADOW_INGOT = registerItem("shadow_ingot", new Item(new FabricItemSettings()));
-    public static final Item MUSIC_GEAR_FIVE = registerItem("gear_five_music_disc", new MusicDiscItem(7, ModSound.GEAR_FIVE, new FabricItemSettings().maxCount(1), 250));
-    public static final Item MUSIC_BOYZ_PARIS = registerItem("boyz_in_paris_music_disc", new MusicDiscItem(7, ModSound.BOYZ_PARIS, new FabricItemSettings().maxCount(1), 151));
     public static final Item SETSUKO_PLUSH = registerItem("setsuko_plush", new Item(new FabricItemSettings()));
     public static final Item MYSTICSTESS_PLUSH = registerItem("mysticstess_plush", new Item(new FabricItemSettings()));
     public static final Item DEMONICA_PLUSH = registerItem("demonica_plush", new Item(new FabricItemSettings()));
-
+    public static final Item BEER = registerItem("beer_chope", new Item(new FabricItemSettings()));
+    public static final Item CHOPE = registerItem("chope", new Item(new FabricItemSettings()));
 
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries){
@@ -42,9 +40,8 @@ public class ModItems {
         entries.add(FLAMESTONE_INGOT);
         entries.add(SHADOW_GEMS);
         entries.add(SHADOW_INGOT);
-    }
-
-    private static void addItemsToOUTILSTabItemGroup(FabricItemGroupEntries entries){
+        entries.add(BEER);
+        entries.add(CHOPE);
     }
 
     private static Item registerItem(String name, Item item){
@@ -55,6 +52,5 @@ public class ModItems {
         MysticDeep.LOGGER.info("Registering ModItems for "+MysticDeep.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientTabItemGroup);
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(ModItems::addItemsToOUTILSTabItemGroup);
     }
 }
