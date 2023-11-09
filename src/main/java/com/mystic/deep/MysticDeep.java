@@ -17,6 +17,9 @@ public class MysticDeep implements ModInitializer{
     public static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
     public static final RegistryKey<PlacedFeature> CUSTOM_ORE_PLACED_KEY = RegistryKey.of(RegistryKeys.PLACED_FEATURE, new Identifier("mysticdeep","marinite_ore"));
+    public static final RegistryKey<PlacedFeature> CUSTOM_ORE_PLACED_KEYS = RegistryKey.of(RegistryKeys.PLACED_FEATURE, new Identifier("mysticdeep","flamestone_ore"));
+    public static final RegistryKey<PlacedFeature> CUSTOME_ORE_PLACED_KEYS = RegistryKey.of(RegistryKeys.PLACED_FEATURE, new Identifier("mysticdeep","shadow_ore"));
+
 
     @Override
     public void onInitialize() {
@@ -24,5 +27,7 @@ public class MysticDeep implements ModInitializer{
         ModItems.registerModItems();
         ModItemsGroups.registerModItemsGroups();
         BiomeModifications.addFeature(BiomeSelectors.foundInOverworld(), GenerationStep.Feature.UNDERGROUND_ORES, CUSTOM_ORE_PLACED_KEY);
+        BiomeModifications.addFeature(BiomeSelectors.foundInTheNether(), GenerationStep.Feature.UNDERGROUND_ORES, CUSTOM_ORE_PLACED_KEYS);
+        BiomeModifications.addFeature(BiomeSelectors.foundInTheEnd(), GenerationStep.Feature.UNDERGROUND_ORES, CUSTOME_ORE_PLACED_KEYS);
     }
 }

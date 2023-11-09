@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 100,
+    "experience": 0.7,
+    "group": "flamestone_gems",
+    "ingredient": {
+      "item": "mysticdeep:shadow_ore_block"
+    },
+    "result": "mysticdeep:shadow_gems"
+  }

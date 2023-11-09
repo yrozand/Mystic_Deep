@@ -35,6 +35,33 @@ public class ModItemsGroups {
                 entries.add(ModItems.SETSUKO_PLUSH);
                 entries.add(ModItems.DEMONICA_PLUSH);
                 entries.add(ModItems.MYSTICSTESS_PLUSH);
+                entries.add(ModItems.MARINITE_PICKAXE);
+                entries.add(ModItems.ABYSSITE_PICKAXE);
+                entries.add(ModItems.FLAMESTONE_PICKAXE);
+                entries.add(ModItems.EARTHCORE_PICKAXE);
+                entries.add(ModItems.SHADOW_PICKAXE);
+                entries.add(ModItems.MARINITE_SHOVEL);
+                entries.add(ModItems.ABYSSITE_SHOVEL);
+                entries.add(ModItems.FLAMESTONE_SHOVEL);
+                entries.add(ModItems.EARTHCORE_SHOVEL);
+                entries.add(ModItems.SHADOW_SHOVEL);
+                entries.add(ModItems.MARINITE_SWORD);
+                entries.add(ModItems.ABYSSITE_SWORD);
+                entries.add(ModItems.FLAMESTONE_SWORD);
+                entries.add(ModItems.EARTHCORE_SWORD);
+                entries.add(ModItems.SHADOW_SWORD);
+                entries.add(ModItems.MARINITE_AXE);
+                entries.add(ModItems.ABYSSITE_AXE);
+                entries.add(ModItems.FLAMESTONE_AXE);
+                entries.add(ModItems.EARTHCORE_AXE);
+                entries.add(ModItems.SHADOW_AXE);
+                entries.add(ModItems.MARINITE_HOE);
+                entries.add(ModItems.ABYSSITE_HOE);
+                entries.add(ModItems.FLAMESTONE_HOE);
+                entries.add(ModItems.EARTHCORE_HOE);
+                entries.add(ModItems.SHADOW_HOE);
+                entries.add(ModBlocks.FLAMESTONE_ORE_BLOCK);
+                entries.add(ModBlocks.SHADOW_ORE_BLOCK);
             }).build());
 
     public static void registerModItemsGroups(){

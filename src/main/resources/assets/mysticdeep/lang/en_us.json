@@ -27,11 +27,43 @@
 
     "block.mysticdeep.marinite_ore_block": "Marinite Ore",
     "block.mysticdeep.deepslate_marinite_ore_block": "Deepslate Marinite Ore",
+    "block.mysticdeep.shadow_ore_block": "Shadow Ore",
+    "block.mysticdeep.flamestone_ore_block": "Flamestone Ore",
 
     "item.mysticdeep.setsuko_plush": "Setsuko Plushie",
     "item.mysticdeep.demonica_plush": "Démonica Plushie",
     "item.mysticdeep.mysticstess_plush": "Mystic stess Plushie",
     "item.mysticstess.beer_chope": "Beer Chope",
+
+    "item.mysticdeep.marinite_sword" : "Marinite Sword",
+    "item.mysticdeep.marinite_pickaxe" : "Marinite Pickaxe",
+    "item.mysticdeep.marinite_axe" : "Marinite Axe",
+    "item.mysticdeep.marinite_shovel" : "Marinite Shovel",
+    "item.mysticdeep.marinite_hoe" : "Marinite Hoe",
+
+    "item.mysticdeep.abyssite_sword" : "Abyssite Sword",
+    "item.mysticdeep.abyssite_pickaxe" : "Abyssite Pickaxe",
+    "item.mysticdeep.abyssite_axe" : "Abyssite Axe",
+    "item.mysticdeep.abyssite_shovel" : "Abyssite Shovel",
+    "item.mysticdeep.abyssite_hoe" : "Abyssite Hoe",
+
+    "item.mysticdeep.flamestone_sword" : "Flamestone Sword",
+    "item.mysticdeep.flamestone_pickaxe" : "Flamestone Pickaxe",
+    "item.mysticdeep.flamestone_axe" : "Flamestone Axe",
+    "item.mysticdeep.flamestone_shovel" : "Flamestone Shovel",
+    "item.mysticdeep.flamestone_hoe" : "Flamestone Hoe",
+
+    "item.mysticdeep.earthcore_sword" : "Earthcore Sword",
+    "item.mysticdeep.earthcore_pickaxe" : "Earthcore Pickaxe",
+    "item.mysticdeep.earthcore_axe" : "Earthcore Axe",
+    "item.mysticdeep.earthcore_shovel" : "Earthcore Shovel",
+    "item.mysticdeep.earthcore_hoe" : "Earthcore Hoe",
+
+    "item.mysticdeep.shadow_sword" : "Shadow Sword",
+    "item.mysticdeep.shadow_pickaxe" : "Shadow Pickaxe",
+    "item.mysticdeep.shadow_axe" : "Shadow Axe",
+    "item.mysticdeep.shadow_shovel" : "Shadow Shovel",
+    "item.mysticdeep.shadow_hoe" : "Shadow Hoe",
 
     "itemgroup.MysticDeep": "Mystic Deep"
   }

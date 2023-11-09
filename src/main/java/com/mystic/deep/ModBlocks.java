@@ -32,10 +32,13 @@ public class ModBlocks {
         new Block(FabricBlockSettings.copyOf(Blocks.RAW_IRON_BLOCK)));
 
     public static final Block MARINITE_ORE_BLOCK = registerBlock("marinite_ore_block",
-        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
+        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.IRON_ORE).strength(3f), UniformIntProvider.create(2, 5)));
     public static final Block DEEPSLATE_MARINITE_ORE_BLOCK = registerBlock("deepslate_marinite_ore_block",
-        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
-
+        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE_IRON_ORE).strength(4f), UniformIntProvider.create(2, 5)));
+    public static final Block FLAMESTONE_ORE_BLOCK = registerBlock("flamestone_ore_block",
+        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(1f), UniformIntProvider.create(2, 5)));
+    public static final Block SHADOW_ORE_BLOCK = registerBlock("shadow_ore_block",
+        new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.END_STONE).strength(5f), UniformIntProvider.create(2, 5)));
 
     private static Block registerBlock(String name, Block block){
         registerBlockItem(name, block);
