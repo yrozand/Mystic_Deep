@@ -3,6 +3,7 @@ package com.mystic.deep;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.minecraft.item.ArmorItem;
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.HoeItem;
 import net.minecraft.item.Item;
@@ -56,6 +57,27 @@ public class ModItems {
     public static final Item FLAMESTONE_HOE = registerItem("flamestone_hoe", new HoeItem(ModToolMaterial.FLAMESTONE, 0, -2.8f, new FabricItemSettings()));
     public static final Item EARTHCORE_HOE = registerItem("earthcore_hoe", new HoeItem(ModToolMaterial.EARTHCORE, 0, -2.8f, new FabricItemSettings()));
     public static final Item SHADOW_HOE = registerItem("shadow_hoe", new HoeItem(ModToolMaterial.SHADOW, 0, -2.8f, new FabricItemSettings()));
+    public static final Item MARINITE_HELMET = registerItem("marinite_helmet", new ArmorItem(ModArmorMaterials.MARINITE, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item MARINITE_CHESTPLATE = registerItem("marinite_chestplate",new ArmorItem(ModArmorMaterials.MARINITE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item MARINITE_LEGGINGS = registerItem("marinite_leggings", new ArmorItem(ModArmorMaterials.MARINITE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item MARINITE_BOOTS = registerItem("marinite_boots", new ArmorItem(ModArmorMaterials.MARINITE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item ABYSSITE_HELMET = registerItem("abyssite_helmet", new ArmorItem(ModArmorMaterials.ABYSSITE, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item ABYSSITE_CHESTPLATE = registerItem("abyssite_chestplate",new ArmorItem(ModArmorMaterials.ABYSSITE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item ABYSSITE_LEGGINGS = registerItem("abyssite_leggings", new ArmorItem(ModArmorMaterials.ABYSSITE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item ABYSSITE_BOOTS = registerItem("abyssite_boots", new ArmorItem(ModArmorMaterials.ABYSSITE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item EARTHCORE_HELMET = registerItem("earthcore_helmet", new ArmorItem(ModArmorMaterials.EARTHCORE, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item EARTHCORE_CHESTPLATE = registerItem("earthcore_chestplate",new ArmorItem(ModArmorMaterials.EARTHCORE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item EARTHCORE_LEGGINGS = registerItem("earthcore_leggings", new ArmorItem(ModArmorMaterials.EARTHCORE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item EARTHCORE_BOOTS = registerItem("earthcore_boots", new ArmorItem(ModArmorMaterials.EARTHCORE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item FLAMESTONE_HELMET = registerItem("flamestone_helmet", new ArmorItem(ModArmorMaterials.FLAMESTONE, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item FLAMESTONE_CHESTPLATE = registerItem("flamestone_chestplate",new ArmorItem(ModArmorMaterials.FLAMESTONE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item FLAMESTONE_LEGGINGS = registerItem("flamestone_leggings", new ArmorItem(ModArmorMaterials.FLAMESTONE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item FLAMESTONE_BOOTS = registerItem("flamestone_boots", new ArmorItem(ModArmorMaterials.FLAMESTONE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item SHADOW_HELMET = registerItem("shadow_helmet", new ArmorItem(ModArmorMaterials.SHADOW, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item SHADOW_CHESTPLATE = registerItem("shadow_chestplate",new ArmorItem(ModArmorMaterials.SHADOW, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item SHADOW_LEGGINGS = registerItem("shadow_leggings", new ArmorItem(ModArmorMaterials.SHADOW, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item SHADOW_BOOTS = registerItem("shadow_boots", new ArmorItem(ModArmorMaterials.SHADOW, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries){
         entries.add(MARINITE_INGOT);
@@ -69,8 +91,6 @@ public class ModItems {
         entries.add(FLAMESTONE_INGOT);
         entries.add(SHADOW_GEMS);
         entries.add(SHADOW_INGOT);
-        entries.add(BEER);
-        entries.add(CHOPE);
     }
 
     private static Item registerItem(String name, Item item){

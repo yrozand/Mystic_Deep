@@ -1,50 +1,50 @@
-/give @a mysticdeep:marinite_ingot
-/advancement grant @a everything
-/give @a mysticdeep:marinite_block
-/give @a mysticdeep:manirite_block
-/give @a mysticdeep:marinite_block
-/give @a mysticdeep:raw_marinite_blockeep:marinite_block
-/give @a mysticdeep:raw_marinite_block
-/give @a mysticdeep:marinite_block
-/give @a mysticdeep:deepslate_marinite_ore_block
-/give @a mysticdeep:marinite_ore_block
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/give @a mysticdeep:marinite_gems
-/gamemode creative
-/reload
-/datapack list
-/trigger if_invisible
-/trigger as_trigger
-/function armor_statues:admin
-/function armor_statues:admin/book_from_help_toggle
-/give @a minecraft:barrier
-/fill 30 -55 -8
-/fill 30 -55 -8 36 -59 -8 air
-/give @a minecraft:glass_pane
-/give @a mysticdeep:boyz_in_paris_music_disc
-/effect give @a minecraft:strength infinite 255 true
-/give @a minecraft:obsidian 64
-/fill ~-8 0 ~-8 ~8 ~-16 ~8 minecraft:air replace minecraft:stone
-/effect give @a minecraft:night_vision infinite 255 true
-/gamemode spectator
-/gamemode creative
-/gamemode spectator
-/gamemode creative
-/spawnpoint
-/fill ~-8 0 ~-8 ~8 ~-16 ~8 minecraft:air replace minecraft:stone
-/gamemode spectator
-/gamemode creative
-/fill ~-16 0 ~-16 ~16 ~-16 ~16 minecraft:air replace minecraft:stone
-/fill ~-16 0 ~-16 ~16 ~-10 ~10 minecraft:air replace minecraft:stone
-/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:stone
-/gamemode spectator
-/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:diorite
-/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:stone
-/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:andesite
-/fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace minecraft:granite
 /fill ~-16 0 ~-16 ~8 ~-25 ~8 minecraft:air replace dirt
 /gamemode creative
 /gamemode spectator
 /gamemode creative
+/gamemode survival
+/give @a minecraft:diamond_pickaxe
+/enchant @a minecraft:efficiency 5
+/gamemode creative
+/fill 23 -60 19
+/fill 23 -60 19 21 -60 17 minecraft:end_portal
+/kill
+/tp @a 0 100 0
+/locate structure minecraft:stronghold
+/tp @s 192 ~ 1632
+/spawnpoint
+/kill
+/kill @e[type=minecraft:ender_dragon]
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/enchant @a minecraft:efficiency 5
+/kill
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/locate structure minecraft:village_plains
+/tp @s -944 ~ -1056
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode spectator
+/give @a minecraft:item_frame{Invisible:1}
+/give @p item_frame{EntityTag:{Invisible:1b}}
+/summon ArmorStand ~ ~ ~ {ShowArms:1}
+/summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
+/reload
+/spawnpoint
+/locate structure minecraft:stronghold
+/tp @s 64 ~ -1840
+/give @a mysticdeep:shadow_chestplate
+/give @a mysticdeep:shadow_helmet
+/give @a mysticdeep:shadow_boots
+/give @a mysticdeep:shadow_leggings
+/kill @e[type=minecraft:ender_dragon]
+/gamemode creative
+/time set day

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:earthcore_block" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:earthcore_ingot",
+        "count": 9
+    }
+}

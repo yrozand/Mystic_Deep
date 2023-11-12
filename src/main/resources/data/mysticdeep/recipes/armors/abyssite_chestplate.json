@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:abyssite_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:abyssite_chestplate",
+        "count": 1
+    }
+}

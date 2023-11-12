@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "mysticdeep:earthcore_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:earthcore_pickaxe",
+        "count": 1
+    }
+}

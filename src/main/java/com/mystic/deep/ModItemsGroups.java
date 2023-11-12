@@ -62,6 +62,14 @@ public class ModItemsGroups {
                 entries.add(ModItems.SHADOW_HOE);
                 entries.add(ModBlocks.FLAMESTONE_ORE_BLOCK);
                 entries.add(ModBlocks.SHADOW_ORE_BLOCK);
+                entries.add(ModItems.BEER);
+                entries.add(ModItems.CHOPE);
+                entries.add(ModItems.MARINITE_HELMET);
+                entries.add(ModItems.MARINITE_CHESTPLATE);
+                entries.add(ModItems.MARINITE_LEGGINGS);
+                entries.add(ModItems.MARINITE_BOOTS);
+                
+
             }).build());
 
     public static void registerModItemsGroups(){

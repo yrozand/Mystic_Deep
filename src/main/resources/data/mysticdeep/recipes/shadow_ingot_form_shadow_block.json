@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:shadow_block" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:shadow_ingot",
+        "count": 9
+    }
+}

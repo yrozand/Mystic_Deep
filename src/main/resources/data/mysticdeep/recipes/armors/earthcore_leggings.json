@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:earthcore_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:earthcore_leggings",
+        "count": 1
+    }
+}

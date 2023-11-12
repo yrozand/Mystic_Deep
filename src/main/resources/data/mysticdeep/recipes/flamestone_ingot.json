@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mysticdeep:flamestone_gems"
+        },
+        {
+            "item": "mysticdeep:earthcore_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticdeep:flamestone_ingot",
+        "count": 1
+    }
+}

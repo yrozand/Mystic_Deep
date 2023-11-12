@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:flamestone_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:flamestone_boots",
+        "count": 1
+    }
+}

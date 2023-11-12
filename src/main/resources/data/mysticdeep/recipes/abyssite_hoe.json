@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XX",
+        " #",
+        " #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "mysticdeep:abyssite_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:abyssite_hoe",
+        "count": 1
+    }
+}

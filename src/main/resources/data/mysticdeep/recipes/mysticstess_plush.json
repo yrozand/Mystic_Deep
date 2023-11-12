@@ -7,17 +7,18 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:book"
         },
         "P": {
-            "item": "mysticdeep:abyssite_block"
+            "item": "mysticdeep:abyssite_ingot"
         },
         "Y": {
-            "item": "minecraft:book"
+            "item": "minecraft:nether_star"
         }
     },
     "result": {
-        "item": "mysticdeep:mysticstess_pluch",
+        "item": "mysticdeep:mysticstess_plush",
+        
         "count": 1
     }
 }

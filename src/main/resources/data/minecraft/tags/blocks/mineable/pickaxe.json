@@ -3,6 +3,8 @@
     "mysticdeep:marinite_block",
     "mysticdeep:raw_marinite_block",
     "mysticdeep:marinite_ore_block",
-    "mysticdeep:deepslate_marinite_ore_block"
+    "mysticdeep:deepslate_marinite_ore_block",
+    "mysticdeep:flamestone_ore_block",
+    "mysticdeep:shadow_ore_block"
   ]
 }

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:abyssite_block" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:abyssite_ingot",
+        "count": 9
+    }
+}

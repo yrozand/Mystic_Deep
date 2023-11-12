@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:marinite_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:marinite_leggings",
+        "count": 1
+    }
+}
