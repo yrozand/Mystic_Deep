@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:flamestone_gems"
+      },
+      "title": "Make a Flamestone Gem",
+      "description": "The Nether Gem!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_an_earthcore_block",
+    "criteria": {
+      "has_flamestone_gem": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:flamestone_gems"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

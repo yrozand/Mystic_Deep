@@ -5,7 +5,7 @@
       },
       "title": "Mystic Deep",
       "description": "The Power of Mystic Deep!",
-      "background": "mysticdeep:textures/block/shadow_block.png",
+      "background": "mysticdeep:textures/block/raw_marinite_block.png",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

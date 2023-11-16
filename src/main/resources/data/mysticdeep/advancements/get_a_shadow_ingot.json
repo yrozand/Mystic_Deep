@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:shadow_ingot"
+      },
+      "title": "Make a Shadow Ingot",
+      "description": "A spectral ingot!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_a_shadow_gem",
+    "criteria": {
+      "has_shadow_ingot": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:shadow_ingot"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

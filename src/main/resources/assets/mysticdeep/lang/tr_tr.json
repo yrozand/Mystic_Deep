@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Bira Bardağı",
+  "item.mysticdeep.chope": "Bardağı",
+
+  "item.mysticdeep.marinite_raw": "Ham Marinite",
+
+  "item.mysticdeep.marinite_ingot": "Marinite Döküm",
+  "item.mysticdeep.abyssite_ingot": "Abyssite Döküm",
+  "item.mysticdeep.earthcore_ingot": "Earthcore Döküm",
+  "item.mysticdeep.flamestone_ingot": "Flamestone Döküm",
+  "item.mysticdeep.shadow_ingot": "Shadow Döküm",
+  
+  "item.mysticdeep.marinite_gems": "Marinite Taşları",
+  "item.mysticdeep.abyssite_gems": "Abyssite Taşları",
+  "item.mysticdeep.earthcore_gems": "Earthcore Taşları",
+  "item.mysticdeep.flamestone_gems": "Flamestone Taşları",
+  "item.mysticdeep.shadow_gems": "Shadow Taşları",
+
+  "block.mysticdeep.raw_marinite_block": "Ham Marinite Bloğu",
+  "block.mysticdeep.marinite_block": "Marinite Bloğu",
+  "block.mysticdeep.abyssite_block": "Abyssite Bloğu",
+  "block.mysticdeep.earthcore_block": "Earthcore Bloğu",
+  "block.mysticdeep.flamestone_block": "Flamestone Bloğu",
+  "block.mysticdeep.shadow_block": "Shadow Bloğu",
+
+  "block.mysticdeep.marinite_ore_block": "Marinite Cevheri",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Derin Kayalık Marinite Cevheri",
+  "block.mysticdeep.shadow_ore_block": "Shadow Cevheri",
+  "block.mysticdeep.flamestone_ore_block": "Flamestone Cevheri",
+
+  "item.mysticdeep.setsuko_plush": "Setsuko Oyuncak",
+  "item.mysticdeep.demonica_plush": "Demonica Oyuncak",
+  "item.mysticdeep.mysticstess_plush": "Mystic Stess Oyuncak",
+  "item.mysticdeep.levraisteeltv_plush": "Levraisteeltv Oyuncak",
+  "item.mysticdeep.m26g_plush": "M26G Oyuncak",
+  "item.mysticstess.beer_chope": "Bira Bardağı Oyuncak",
+
+  "item.mysticdeep.marinite_sword" : "Marinite Kılıç",
+  "item.mysticdeep.marinite_pickaxe" : "Marinite Kazma",
+  "item.mysticdeep.marinite_axe" : "Marinite Balta",
+  "item.mysticdeep.marinite_shovel" : "Marinite Kürek",
+  "item.mysticdeep.marinite_hoe" : "Marinite Saban",
+
+  "item.mysticdeep.abyssite_sword" : "Abyssite Kılıç",
+  "item.mysticdeep.abyssite_pickaxe" : "Abyssite Kazma",
+  "item.mysticdeep.abyssite_axe" : "Abyssite Balta",
+  "item.mysticdeep.abyssite_shovel" : "Abyssite Kürek",
+  "item.mysticdeep.abyssite_hoe" : "Abyssite Saban",
+
+  "item.mysticdeep.flamestone_sword" : "Flamestone Kılıç",
+  "item.mysticdeep.flamestone_pickaxe" : "Flamestone Kazma",
+  "item.mysticdeep.flamestone_axe" : "Flamestone Balta",
+  "item.mysticdeep.flamestone_shovel" : "Flamestone Kürek",
+  "item.mysticdeep.flamestone_hoe" : "Flamestone Saban",
+
+  "item.mysticdeep.earthcore_sword" : "Earthcore Kılıç",
+  "item.mysticdeep.earthcore_pickaxe" : "Earthcore Kazma",
+  "item.mysticdeep.earthcore_axe" : "Earthcore Balta",
+  "item.mysticdeep.earthcore_shovel" : "Earthcore Kürek",
+  "item.mysticdeep.earthcore_hoe" : "Earthcore Saban",
+
+  "item.mysticdeep.shadow_sword" : "Shadow Kılıç",
+  "item.mysticdeep.shadow_pickaxe" : "Shadow Kazma",
+  "item.mysticdeep.shadow_axe" : "Shadow Balta",
+  "item.mysticdeep.shadow_shovel" : "Shadow Kürek",
+  "item.mysticdeep.shadow_hoe" : "Shadow Saban",
+
+  "item.mysticdeep.marinite_helmet" : "Marinite Miğfer",
+  "item.mysticdeep.marinite_chestplate" : "Marinite Göğüs Zırhı",
+  "item.mysticdeep.marinite_leggings" : "Marinite Bacak Zırhı",
+  "item.mysticdeep.marinite_boots" : "Marinite Botları",
+
+  "item.mysticdeep.abyssite_helmet" : "Abyssite Miğfer",
+  "item.mysticdeep.abyssite_chestplate" : "Abyssite Göğüs Zırhı",
+  "item.mysticdeep.abyssite_leggings" : "Abyssite Bacak Zırhı",
+  "item.mysticdeep.abyssite_boots" : "Abyssite Botları",
+
+  "item.mysticdeep.earthcore_helmet" : "Earthcore Miğfer",
+  "item.mysticdeep.earthcore_chestplate" : "Earthcore Göğüs Zırhı",
+  "item.mysticdeep.earthcore_leggings" : "Earthcore Bacak Zırhı",
+  "item.mysticdeep.earthcore_boots" : "Earthcore Botları",
+
+  "item.mysticdeep.flamestone_helmet" : "Flamestone Miğfer",
+  "item.mysticdeep.flamestone_chestplate" : "Flamestone Göğüs Zırhı",
+  "item.mysticdeep.flamestone_leggings" : "Flamestone Bacak Zırhı",
+  "item.mysticdeep.flamestone_boots" : "Flamestone Botları",
+
+  "item.mysticdeep.shadow_helmet" : "Shadow Miğfer",
+  "item.mysticdeep.shadow_chestplate" : "Shadow Göğüs Zırhı",
+  "item.mysticdeep.shadow_leggings" : "Shadow Bacak Zırhı",
+  "item.mysticdeep.shadow_boots" : "Shadow Botları",
+
+  "itemgroup.MysticDeep": "Mistik Derinlik"
+}

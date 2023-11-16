@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S#S",
+        "PYP",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:flamestone_ingot"
+        },
+        "P": {
+            "item": "mysticdeep:shadow_block"
+        },
+        "Y": {
+            "item": "minecraft:nether_star"
+        },
+        "S": {
+            "item": "minecraft:cooked_salmon"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:m26g_plush",
+        "count": 1
+    }
+}

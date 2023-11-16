@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:shadow_block"
+      },
+      "title": "Make a Shadow block",
+      "description": "The block of darkness!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_a_shadow_ingot",
+    "criteria": {
+      "has_shadow_block": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:shadow_block"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

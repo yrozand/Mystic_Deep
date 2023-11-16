@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "啤酒杯",
+  "item.mysticdeep.chope": "酒杯",
+
+  "item.mysticdeep.marinite_raw": "生马尼特",
+
+  "item.mysticdeep.marinite_ingot": "马尼特锭",
+  "item.mysticdeep.abyssite_ingot": "深渊锭",
+  "item.mysticdeep.earthcore_ingot": "地核锭",
+  "item.mysticdeep.flamestone_ingot": "火石锭",
+  "item.mysticdeep.shadow_ingot": "暗影锭",
+  
+  "item.mysticdeep.marinite_gems": "马尼特宝石",
+  "item.mysticdeep.abyssite_gems": "深渊宝石",
+  "item.mysticdeep.earthcore_gems": "地核宝石",
+  "item.mysticdeep.flamestone_gems": "火石宝石",
+  "item.mysticdeep.shadow_gems": "暗影宝石",
+
+  "block.mysticdeep.raw_marinite_block": "生马尼特块",
+  "block.mysticdeep.marinite_block": "马尼特块",
+  "block.mysticdeep.abyssite_block": "深渊块",
+  "block.mysticdeep.earthcore_block": "地核块",
+  "block.mysticdeep.flamestone_block": "火石块",
+  "block.mysticdeep.shadow_block": "暗影块",
+
+  "block.mysticdeep.marinite_ore_block": "马尼特矿石",
+  "block.mysticdeep.deepslate_marinite_ore_block": "深板马尼特矿石",
+  "block.mysticdeep.shadow_ore_block": "暗影矿石",
+  "block.mysticdeep.flamestone_ore_block": "火石矿石",
+
+  "item.mysticdeep.setsuko_plush": "Setsuko毛绒玩具",
+  "item.mysticdeep.demonica_plush": "恶魔毛绒玩具",
+  "item.mysticdeep.mysticstess_plush": "神秘毛绒玩具",
+  "item.mysticdeep.levraisteeltv_plush": "Levraisteeltv毛绒玩具",
+  "item.mysticdeep.m26g_plush": "M26G毛绒玩具",
+  "item.mysticstess.beer_chope": "啤酒杯",
+
+  "item.mysticdeep.marinite_sword" : "马尼特剑",
+  "item.mysticdeep.marinite_pickaxe" : "马尼特镐",
+  "item.mysticdeep.marinite_axe" : "马尼特斧",
+  "item.mysticdeep.marinite_shovel" : "马尼特铲",
+  "item.mysticdeep.marinite_hoe" : "马尼特锄",
+
+  "item.mysticdeep.abyssite_sword" : "深渊剑",
+  "item.mysticdeep.abyssite_pickaxe" : "深渊镐",
+  "item.mysticdeep.abyssite_axe" : "深渊斧",
+  "item.mysticdeep.abyssite_shovel" : "深渊铲",
+  "item.mysticdeep.abyssite_hoe" : "深渊锄",
+
+  "item.mysticdeep.flamestone_sword" : "火石剑",
+  "item.mysticdeep.flamestone_pickaxe" : "火石镐",
+  "item.mysticdeep.flamestone_axe" : "火石斧",
+  "item.mysticdeep.flamestone_shovel" : "火石铲",
+  "item.mysticdeep.flamestone_hoe" : "火石锄",
+
+  "item.mysticdeep.earthcore_sword" : "地核剑",
+  "item.mysticdeep.earthcore_pickaxe" : "地核镐",
+  "item.mysticdeep.earthcore_axe" : "地核斧",
+  "item.mysticdeep.earthcore_shovel" : "地核铲",
+  "item.mysticdeep.earthcore_hoe" : "地核锄",
+
+  "item.mysticdeep.shadow_sword" : "暗影剑",
+  "item.mysticdeep.shadow_pickaxe" : "暗影镐",
+  "item.mysticdeep.shadow_axe" : "暗影斧",
+  "item.mysticdeep.shadow_shovel" : "暗影铲",
+  "item.mysticdeep.shadow_hoe" : "暗影锄",
+
+  "item.mysticdeep.marinite_helmet" : "马尼特头盔",
+  "item.mysticdeep.marinite_chestplate" : "马尼特胸甲",
+  "item.mysticdeep.marinite_leggings" : "马尼特护腿",
+  "item.mysticdeep.marinite_boots" : "马尼特靴子",
+
+  "item.mysticdeep.abyssite_helmet" : "深渊头盔",
+  "item.mysticdeep.abyssite_chestplate" : "深渊胸甲",
+  "item.mysticdeep.abyssite_leggings" : "深渊护腿",
+  "item.mysticdeep.abyssite_boots" : "深渊靴子",
+
+  "item.mysticdeep.earthcore_helmet" : "地核头盔",
+  "item.mysticdeep.earthcore_chestplate" : "地核胸甲",
+  "item.mysticdeep.earthcore_leggings" : "地核护腿",
+  "item.mysticdeep.earthcore_boots" : "地核靴子",
+
+  "item.mysticdeep.flamestone_helmet" : "火石头盔",
+  "item.mysticdeep.flamestone_chestplate" : "火石胸甲",
+  "item.mysticdeep.flamestone_leggings" : "火石护腿",
+  "item.mysticdeep.flamestone_boots" : "火石靴子",
+
+  "item.mysticdeep.shadow_helmet" : "暗影头盔",
+  "item.mysticdeep.shadow_chestplate" : "暗影胸甲",
+  "item.mysticdeep.shadow_leggings" : "暗影护腿",
+  "item.mysticdeep.shadow_boots" : "暗影靴子",
+
+  "itemgroup.MysticDeep": "神秘深渊"
+}

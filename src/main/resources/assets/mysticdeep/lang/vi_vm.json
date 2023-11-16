@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Bia Chope",
+  "item.mysticdeep.chope": "Chope",
+
+  "item.mysticdeep.marinite_raw": "Nguyên liệu Marinite",
+
+  "item.mysticdeep.marinite_ingot": "Vật liệu Marinite",
+  "item.mysticdeep.abyssite_ingot": "Vật liệu Abyssite",
+  "item.mysticdeep.earthcore_ingot": "Vật liệu Earthcore",
+  "item.mysticdeep.flamestone_ingot": "Vật liệu Flamestone",
+  "item.mysticdeep.shadow_ingot": "Vật liệu Shadow",
+  
+  "item.mysticdeep.marinite_gems": "Ngọc Marinite",
+  "item.mysticdeep.abyssite_gems": "Ngọc Abyssite",
+  "item.mysticdeep.earthcore_gems": "Ngọc Earthcore",
+  "item.mysticdeep.flamestone_gems": "Ngọc Flamestone",
+  "item.mysticdeep.shadow_gems": "Ngọc Shadow",
+
+  "block.mysticdeep.raw_marinite_block": "Khối Nguyên liệu Marinite",
+  "block.mysticdeep.marinite_block": "Khối Marinite",
+  "block.mysticdeep.abyssite_block": "Khối Abyssite",
+  "block.mysticdeep.earthcore_block": "Khối Earthcore",
+  "block.mysticdeep.flamestone_block": "Khối Flamestone",
+  "block.mysticdeep.shadow_block": "Khối Shadow",
+
+  "block.mysticdeep.marinite_ore_block": "Quặng Marinite",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Quặng Deepslate Marinite",
+  "block.mysticdeep.shadow_ore_block": "Quặng Shadow",
+  "block.mysticdeep.flamestone_ore_block": "Quặng Flamestone",
+
+  "item.mysticdeep.setsuko_plush": "Búp bê Setsuko",
+  "item.mysticdeep.demonica_plush": "Búp bê Démonica",
+  "item.mysticdeep.mysticstess_plush": "Búp bê Mystic Stess",
+  "item.mysticdeep.levraisteeltv_plush": "Búp bê Levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Búp bê M26G",
+  "item.mysticstess.beer_chope": "Bia Chope",
+
+  "item.mysticdeep.marinite_sword" : "Kiếm Marinite",
+  "item.mysticdeep.marinite_pickaxe" : "Cây búa Marinite",
+  "item.mysticdeep.marinite_axe" : "Rìu Marinite",
+  "item.mysticdeep.marinite_shovel" : "Xẻng Marinite",
+  "item.mysticdeep.marinite_hoe" : "Cuốc Marinite",
+
+  "item.mysticdeep.abyssite_sword" : "Kiếm Abyssite",
+  "item.mysticdeep.abyssite_pickaxe" : "Cây búa Abyssite",
+  "item.mysticdeep.abyssite_axe" : "Rìu Abyssite",
+  "item.mysticdeep.abyssite_shovel" : "Xẻng Abyssite",
+  "item.mysticdeep.abyssite_hoe" : "Cuốc Abyssite",
+
+  "item.mysticdeep.flamestone_sword" : "Kiếm Flamestone",
+  "item.mysticdeep.flamestone_pickaxe" : "Cây búa Flamestone",
+  "item.mysticdeep.flamestone_axe" : "Rìu Flamestone",
+  "item.mysticdeep.flamestone_shovel" : "Xẻng Flamestone",
+  "item.mysticdeep.flamestone_hoe" : "Cuốc Flamestone",
+
+  "item.mysticdeep.earthcore_sword" : "Kiếm Earthcore",
+  "item.mysticdeep.earthcore_pickaxe" : "Cây búa Earthcore",
+  "item.mysticdeep.earthcore_axe" : "Rìu Earthcore",
+  "item.mysticdeep.earthcore_shovel" : "Xẻng Earthcore",
+  "item.mysticdeep.earthcore_hoe" : "Cuốc Earthcore",
+
+  "item.mysticdeep.shadow_sword" : "Kiếm Shadow",
+  "item.mysticdeep.shadow_pickaxe" : "Cây búa Shadow",
+  "item.mysticdeep.shadow_axe" : "Rìu Shadow",
+  "item.mysticdeep.shadow_shovel" : "Xẻng Shadow",
+  "item.mysticdeep.shadow_hoe" : "Cuốc Shadow",
+
+  "item.mysticdeep.marinite_helmet" : "Mũ bảo hiểm Marinite",
+  "item.mysticdeep.marinite_chestplate" : "Áo giáp Marinite",
+  "item.mysticdeep.marinite_leggings" : "Quần Marinite",
+  "item.mysticdeep.marinite_boots" : "Giày Marinite",
+
+  "item.mysticdeep.abyssite_helmet" : "Mũ bảo hiểm Abyssite",
+  "item.mysticdeep.abyssite_chestplate" : "Áo giáp Abyssite",
+  "item.mysticdeep.abyssite_leggings" : "Quần Abyssite",
+  "item.mysticdeep.abyssite_boots" : "Giày Abyssite",
+
+  "item.mysticdeep.earthcore_helmet" : "Mũ bảo hiểm Earthcore",
+  "item.mysticdeep.earthcore_chestplate" : "Áo giáp Earthcore",
+  "item.mysticdeep.earthcore_leggings" : "Quần Earthcore",
+  "item.mysticdeep.earthcore_boots" : "Giày Earthcore",
+
+  "item.mysticdeep.flamestone_helmet" : "Mũ bảo hiểm Flamestone",
+  "item.mysticdeep.flamestone_chestplate" : "Áo giáp Flamestone",
+  "item.mysticdeep.flamestone_leggings" : "Quần Flamestone",
+  "item.mysticdeep.flamestone_boots" : "Giày Flamestone",
+
+  "item.mysticdeep.shadow_helmet" : "Mũ bảo hiểm Shadow",
+  "item.mysticdeep.shadow_chestplate" : "Áo giáp Shadow",
+  "item.mysticdeep.shadow_leggings" : "Quần Shadow",
+  "item.mysticdeep.shadow_boots" : "Giày Shadow",
+
+  "itemgroup.MysticDeep": "Thế giới Mystic Deep"
+}

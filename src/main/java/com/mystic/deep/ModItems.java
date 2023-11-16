@@ -30,6 +30,10 @@ public class ModItems {
     public static final Item SETSUKO_PLUSH = registerItem("setsuko_plush", new Item(new FabricItemSettings()));
     public static final Item MYSTICSTESS_PLUSH = registerItem("mysticstess_plush", new Item(new FabricItemSettings()));
     public static final Item DEMONICA_PLUSH = registerItem("demonica_plush", new Item(new FabricItemSettings()));
+    public static final Item LEVRAISTEELTV_PLUSH = registerItem("levraisteeltv_plush", new Item(new FabricItemSettings()));
+    public static final Item M26G_PLUSH = registerItem("m26g_plush", new Item(new FabricItemSettings()));
+    public static final Item ALL_PLUSH = registerItem("all_plush", new Item(new FabricItemSettings()));
+
     public static final Item BEER = registerItem("beer_chope", new Item(new FabricItemSettings()));
     public static final Item CHOPE = registerItem("chope", new Item(new FabricItemSettings()));
     public static final Item MARINITE_PICKAXE = registerItem("marinite_pickaxe", new PickaxeItem(ModToolMaterial.MARINITE, 0, -2.8f, new FabricItemSettings()));

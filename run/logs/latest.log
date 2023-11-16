@@ -1,12 +1,7 @@
-[22:15:50] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.2 with Fabric Loader 0.14.24
-[22:15:50] [ForkJoinPool-1-worker-1/WARN] (FabricLoader/Metadata) Mod mysticdeep uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:15:50] [main/INFO] (FabricLoader) Loading 75 mods:
-	- architectury 10.0.8
-	- cloth-config 12.0.109
-	   \-- cloth-basic-math 0.6.1
-	- dynamic_fps 3.2.1
-	- entityculling 1.6.2-mc1.20.1
-	- fabric-api 0.90.7+1.20.2
+[13:06:28] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.2 with Fabric Loader 0.14.24
+[13:06:29] [ForkJoinPool-1-worker-1/WARN] (FabricLoader/Metadata) Mod mysticdeep uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[13:06:29] [main/INFO] (FabricLoader) Loading 56 mods:
+	- fabric-api 0.90.4+1.20.2
 	- fabric-api-base 0.4.33+fce67b32a0
 	- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
 	- fabric-biome-api-v1 13.0.14+b1792f7da0
@@ -58,58 +53,25 @@
 	- fabric-transfer-api-v1 3.3.9+b1792f7da0
 	- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
 	- fabricloader 0.14.24
-	- ferritecore 6.0.1
-	- immediatelyfast 1.2.7+1.20.2
-	   |-- com_github_llamalad7_mixinextras 0.2.0
-	   \-- net_lenni0451_reflect 1.3.0
-	- iris 1.6.10
-	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
-	   |-- org_anarres_jcpp 1.4.14
-	   \-- org_antlr_antlr4-runtime 4.11.1
 	- java 17
-	- lazydfu 0.1.3
-	- lithium 0.12.0
 	- minecraft 1.20.2
 	- modmenu 8.0.0
 	- mysticdeep ${version}
-	- roughlyenoughitems 13.0.675
-	   \-- error_notifier 1.0.9
-	- sodium 0.5.3
-	- starlight 1.1.3+fabric.5867eae
-[22:15:55] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/yanis/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
-[22:15:55] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[22:15:55] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[22:15:56] [main/INFO] (Lithium) Loaded configuration file for Lithium: 125 options available, 1 override(s) found
-[22:15:56] [main/INFO] (Sodium) Loaded configuration file for Sodium: 41 options available, 3 override(s) found
-[22:15:57] [main/WARN] (Lithium) Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[22:15:57] [main/WARN] (Sodium) Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[22:15:57] [main/INFO] (Sodium-GraphicsAdapterProbe) Searching for graphics cards...
-[22:15:57] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
-[22:15:58] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3060 Laptop GPU, version=DriverVersion=31.0.15.4601]
-[22:15:58] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon(TM) Graphics, version=DriverVersion=31.0.21902.5]
-[22:15:58] [main/WARN] (Sodium-Workarounds) Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
-[22:15:58] [main/WARN] (Sodium-Workarounds) This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
-[22:15:59] [main/WARN] (PerfDataUtil) Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BC8
-[22:15:59] [main/WARN] (PerfCounterQueryHandler) Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
-[22:15:59] [main/WARN] (PerfCounterQuery) Disabling further attempts to query Paging File.
-[22:15:59] [main/WARN] (WmiQueryHandler) COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
-[22:16:07] [Render thread/INFO] (Minecraft) Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:16:08] [Render thread/ERROR] (Minecraft) Failed to verify authentication
+[13:06:41] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/mateo/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:06:41] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:06:41] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[13:06:41] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[13:07:03] [Datafixer Bootstrap/INFO] (Minecraft) 192 Datafixer optimizations took 624 milliseconds
+[13:07:11] [Render thread/INFO] (Minecraft) Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:07:13] [Render thread/ERROR] (Minecraft) Failed to verify authentication
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59) ~[authlib-5.0.47.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:159) ~[authlib-5.0.47.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:53) ~[authlib-5.0.47.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:55) ~[authlib-5.0.47.jar:?]
-	at net.minecraft.client.MinecraftClient.createUserApiService(MinecraftClient.java:772) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.<init>(MinecraftClient.java:529) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:194) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.createUserApiService(MinecraftClient.java:787) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.<init>(MinecraftClient.java:451) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:214) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
@@ -119,112 +81,45 @@ Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 4
 	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-5.0.47.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:130) ~[authlib-5.0.47.jar:?]
 	... 9 more
-[22:16:08] [Render thread/INFO] (Minecraft) Setting user: Player402
-[22:16:08] [Render thread/INFO] (mysticdeep) Registering ModBlocks for mysticdeep
-[22:16:08] [Render thread/INFO] (mysticdeep) Registering ModItems for mysticdeep
-[22:16:08] [Render thread/INFO] (mysticdeep) Registering ModItems for mysticdeep
-[22:16:09] [Render thread/INFO] (REI) [REI] Config loaded
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:delete_item
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:create_item
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:move_items
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id roughlyenoughitems:move_items_new
-[22:16:09] [Render thread/INFO] (Indigo) [Indigo] Different rendering plugin detected; not applying Indigo.
-[22:16:09] [Worker-Main-2/INFO] (Mod Menu/Update Checker) Checking mod updates...
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id architectury:spawn_entity_packet
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
-[22:16:09] [Render thread/INFO] (REI) [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id roughlyenoughitems:ci_msg
-[22:16:09] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id roughlyenoughitems:og_not_enough
-[22:16:09] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.2-snapshot
-[22:16:10] [Render thread/WARN] (Sodium-NvidiaWorkarounds) Attempting to apply workarounds for the NVIDIA Graphics Driver...
-[22:16:10] [Render thread/WARN] (Sodium-NvidiaWorkarounds) If the game crashes immediately after this point, please make a bug report: https://github.com/CaffeineMC/sodium-fabric/issues
-[22:16:10] [Render thread/INFO] (Sodium-NvidiaWorkarounds) ... Successfully applied workarounds for the NVIDIA Graphics Driver!
-[22:16:10] [ForkJoinPool.commonPool-worker-1/WARN] (Iris) [Iris Update Check] This version doesn't have an update index, skipping.
-[22:16:10] [Render thread/INFO] (ImmediatelyFast) Initializing ImmediatelyFast 1.2.7+1.20.2 on NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.2.0 NVIDIA 546.01
-[22:16:10] [Render thread/INFO] (ImmediatelyFast) Found Iris/Oculus 1.6.10. Enabling compatibility.
-[22:16:10] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Vendor: NVIDIA Corporation
-[22:16:10] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Renderer: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
-[22:16:10] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Version: 3.2.0 NVIDIA 546.01
-[22:16:11] [Render thread/INFO] (Iris) Debug functionality is disabled.
-[22:16:11] [Render thread/INFO] (Iris) ARB_direct_state_access detected, enabling DSA.
-[22:16:11] [Render thread/INFO] (Iris) Profile: HIGH (+2 options changed by user)
-[22:16:11] [Render thread/INFO] (Iris) Using shaderpack: ComplementaryReimagined_r5.0.1.zip
-[22:16:12] [Render thread/INFO] (Iris) Hardware information:
-[22:16:12] [Render thread/INFO] (Iris) CPU: 16x AMD Ryzen 9 5900HX with Radeon Graphics 
-[22:16:12] [Render thread/INFO] (Iris) GPU: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 546.01)
-[22:16:12] [Render thread/INFO] (Iris) OS: Windows 11 (10.0)
-[22:16:13] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabric-renderer-registries-v1, dynamic_fps, fabric-command-api-v1, fabric-resource-loader-v0, fabric-crash-report-info-v1, iris, fabric-entity-events-v1, fabric-particles-v1, fabric-events-interaction-v0, fabric-renderer-indigo, fabric-api-lookup-api-v1, fabric-commands-v0, immediatelyfast, fabric-api-base, lithium, fabric-convention-tags-v1, fabricloader, fabric-networking-api-v1, fabric-transfer-api-v1, fabric-object-builder-api-v1, starlight, entityculling, fabric-renderer-api-v1, fabric-dimensions-v1, fabric-model-loading-api-v1, fabric-loot-api-v2, fabric-block-api-v1, fabric-rendering-data-attachment-v1, fabric-mining-level-api-v1, lazydfu, fabric-gametest-api-v1, fabric-client-tags-api-v1, fabric-models-v0, fabric-registry-sync-v0, fabric-screen-handler-api-v1, modmenu, fabric-rendering-v0, fabric-command-api-v2, fabric-events-lifecycle-v0, mysticdeep, fabric-item-group-api-v1, fabric-biome-api-v1, fabric-blockrenderlayer-v1, fabric-keybindings-v0, fabric-api, cloth-config, fabric-resource-conditions-api-v1, fabric-screen-api-v1, fabric-block-view-api-v2, fabric-sound-api-v1, fabric-rendering-v1, fabric-transitive-access-wideners-v1, roughlyenoughitems, fabric-content-registries-v0, fabric-lifecycle-events-v1, fabric-game-rule-api-v1, fabric-recipe-api-v1, fabric-key-binding-api-v1, fabric-data-generation-api-v1, fabric-containers-v0, fabric-rendering-fluids-v1, sodium, fabric-message-api-v1, fabric-item-api-v1)
-[22:16:13] [Worker-Main-15/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
-[22:16:14] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
-[22:16:14] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[22:16:15] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Haut-parleurs (Realtek(R) Audio)
-[22:16:15] [Render thread/INFO] (Minecraft) Sound engine started
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[22:16:15] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[22:16:15] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[22:16:16] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[22:16:16] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:16:16] [IO-Worker-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
-[22:16:16] [IO-Worker-1/ERROR] (Minecraft) Couldn't connect to realms
+[13:07:13] [Render thread/INFO] (Minecraft) Setting user: Player979
+[13:07:14] [Render thread/INFO] (mysticdeep) Registering ModBlocks for mysticdeep
+[13:07:14] [Render thread/INFO] (mysticdeep) Registering ModItems for mysticdeep
+[13:07:14] [Render thread/INFO] (mysticdeep) Registering ModItems for mysticdeep
+[13:07:14] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[13:07:15] [Worker-Main-2/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[13:07:16] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.2-snapshot
+[13:07:20] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabricloader, fabric-commands-v0, fabric-resource-loader-v0, fabric-entity-events-v1, fabric-networking-api-v1, fabric-renderer-registries-v1, fabric-containers-v0, fabric-screen-api-v1, fabric-object-builder-api-v1, fabric-convention-tags-v1, fabric-transfer-api-v1, fabric-key-binding-api-v1, fabric-dimensions-v1, fabric-item-group-api-v1, fabric-client-tags-api-v1, fabric-models-v0, fabric-rendering-data-attachment-v1, fabric-item-api-v1, fabric-keybindings-v0, fabric-gametest-api-v1, fabric-model-loading-api-v1, fabric-resource-conditions-api-v1, fabric-command-api-v1, fabric-sound-api-v1, fabric-rendering-fluids-v1, fabric-recipe-api-v1, fabric-transitive-access-wideners-v1, fabric-loot-api-v2, fabric-rendering-v0, fabric-crash-report-info-v1, fabric-renderer-indigo, fabric-api-base, fabric-rendering-v1, fabric-block-api-v1, fabric-api, fabric-api-lookup-api-v1, fabric-particles-v1, fabric-lifecycle-events-v1, fabric-command-api-v2, fabric-screen-handler-api-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-registry-sync-v0, fabric-biome-api-v1, fabric-renderer-api-v1, fabric-data-generation-api-v1, fabric-game-rule-api-v1, fabric-blockrenderlayer-v1, fabric-events-lifecycle-v0, modmenu, fabric-block-view-api-v2, fabric-content-registries-v0, fabric-events-interaction-v0, mysticdeep)
+[13:07:21] [Worker-Main-3/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
+[13:07:27] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[13:07:27] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:07:28] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on PHL 221B8L -2 (HD Audio Driver for Display Audio)
+[13:07:28] [Render thread/INFO] (Minecraft) Sound engine started
+[13:07:29] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:07:30] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:07:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:07:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:07:31] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:07:34] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:07:34] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:07:34] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:07:34] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:07:35] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:07:35] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:07:36] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:07:36] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:07:36] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:07:37] [IO-Worker-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[13:07:37] [IO-Worker-1/ERROR] (Minecraft) Couldn't connect to realms
 net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
-	at net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:397) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.realms.RealmsClient.clientCompatible(RealmsClient.java:191) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.realms.RealmsAvailability.method_52627(RealmsAvailability.java:44) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:432) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.realms.RealmsClient.clientCompatible(RealmsClient.java:218) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.realms.RealmsAvailability.method_52627(RealmsAvailability.java:45) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
 	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:18] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:16:18] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:40] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to UNFOCUSED.
-[22:16:41] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to FOCUSED.
-[22:16:45] [Worker-Main-12/ERROR] (Minecraft) Couldn't load tag minecraft:needs_iron_tool as it is missing following references: #mysticdeep:deepslate_marinite_ore_block (from fabric)
-[22:16:45] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:raw_marinite_block
+[13:07:47] [Worker-Main-2/ERROR] (Minecraft) Couldn't load tag minecraft:needs_iron_tool as it is missing following references: #mysticdeep:deepslate_marinite_ore_block (from fabric)
+[13:07:48] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:raw_marinite_block
 com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"mysticdeep:raw_marinite"}]
 	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
@@ -238,33 +133,35 @@ com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key
 	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:208) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:143) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:222) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:69) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:592) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:482) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:409) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:309) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:38) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_1611(Mouse.java:99) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:414) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:99) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_22686(Mouse.java:180) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_22684(Mouse.java:180) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
 	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3438) ~[lwjgl-glfw-3.3.2.jar:build 13]
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:219) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.util.Window.swapBuffers(Window.java:287) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1297) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:856) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:253) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:16:45] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:flamestone_gems
+[13:07:48] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:flamestone_gems
 com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft::blaze_powder"}]
 	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
@@ -278,799 +175,134 @@ com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key
 	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:208) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:143) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:222) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:69) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:592) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:482) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:409) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:309) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:38) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_1611(Mouse.java:99) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:414) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:99) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_22686(Mouse.java:180) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.Mouse.method_22684(Mouse.java:180) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
 	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3438) ~[lwjgl-glfw-3.3.2.jar:build 13]
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:219) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.util.Window.swapBuffers(Window.java:287) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1297) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:856) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:253) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
 	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:16:46] [Render thread/INFO] (Minecraft) Loaded 7 recipes
-[22:16:46] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:setsuko_plush: Advancement criteria cannot be empty
-[22:16:46] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mine_master: Advancement criteria cannot be empty
-[22:16:46] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mysticstess_plush: Advancement criteria cannot be empty
-[22:16:46] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:demonica_plush: Advancement criteria cannot be empty
-[22:16:46] [Render thread/INFO] (Minecraft) Loaded 1278 advancements
-[22:16:46] [Render thread/INFO] (BiomeModificationImpl) Applied 63 biome modifications to 63 of 64 new biomes in 19.18 ms
-[22:16:46] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.2
-[22:16:46] [Server thread/INFO] (Minecraft) Generating keypair
-[22:16:47] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[22:16:49] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:16:49] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:16:49] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:16:49] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:16:49] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:16:50] [Render thread/INFO] (Minecraft) Preparing spawn area: 34%
-[22:16:50] [Render thread/INFO] (Minecraft) Time elapsed: 2894 ms
-[22:16:50] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[22:16:50] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[22:16:51] [Netty Local Client IO #0/INFO] (ClientPlayNetworkAddon for Player402) Negotiated common packet version 1
-[22:16:51] [Netty Server IO #1/INFO] (ServerConfigurationNetworkAddon for Player402) Negotiated common packet version 1
-[22:16:51] [Server thread/INFO] (Minecraft) Player402[local:E:b5cae913] logged in with entity id 108 at (-1327.9335743090414, 32.74293160172488, -961.3507397662927)
-[22:16:51] [Server thread/INFO] (Minecraft) Player402 joined the game
-[22:16:51] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
-[22:16:51] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[22:16:51] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[22:16:51] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:16:53] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:16:53] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:16:54] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for START.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for START.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:54] [Render thread/INFO] (Minecraft) Loaded 23 advancements
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for START.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for START in 1.604 ms, totaling 114.0 ms.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for START in 1.238 ms, totaling 410.9 ms.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for START in 498.6 ?s, totaling 5.285 ms.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] ========================================
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for END.
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:16:54] [REI-ReloadPlugins/INFO] (REI) [REI] ========================================
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for END.
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for END.
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for END in 646.5 ?s, totaling 88.36 ms.
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for END in 1.086 ms, totaling 576.7 ms.
-[22:16:55] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for END in 462.8 ?s, totaling 11.93 ms.
-[22:16:56] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:17:53] [Render thread/INFO] (Minecraft) Loaded 26 advancements
-[22:19:57] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.19.56.png
-[22:20:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.20.02.png
-[22:20:04] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to UNFOCUSED.
-[22:20:24] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to FOCUSED.
-[22:20:25] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:20:25] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:20:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:25] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:20:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:26] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:20:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:20:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:26] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:20:26] [Server thread/INFO] (Minecraft) Player402 lost connection: Disconnected
-[22:20:26] [Server thread/INFO] (Minecraft) Player402 left the game
-[22:20:26] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[22:20:26] [Server thread/INFO] (Minecraft) Stopping server
-[22:20:26] [Server thread/INFO] (Minecraft) Saving players
-[22:20:26] [Server thread/INFO] (Minecraft) Saving worlds
-[22:20:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World (3)): All chunks are saved
-[22:20:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:20:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:20:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
-[22:20:27] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:20:30] [Worker-Main-4/ERROR] (Minecraft) Couldn't load tag minecraft:needs_iron_tool as it is missing following references: #mysticdeep:deepslate_marinite_ore_block (from fabric)
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:raw_marinite_block
-com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"mysticdeep:raw_marinite"}]
-	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:59) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:38) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:flamestone_gems
-com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft::blaze_powder"}]
-	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:59) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:38) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:20:30] [Render thread/INFO] (Minecraft) Loaded 7 recipes
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:setsuko_plush: Advancement criteria cannot be empty
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mine_master: Advancement criteria cannot be empty
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mysticstess_plush: Advancement criteria cannot be empty
-[22:20:30] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:demonica_plush: Advancement criteria cannot be empty
-[22:20:30] [Render thread/INFO] (Minecraft) Loaded 1273 advancements
-[22:20:30] [Render thread/WARN] (Minecraft) Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: armor_statues:potions
-[22:20:31] [Render thread/INFO] (BiomeModificationImpl) Applied 11 biome modifications to 11 of 64 new biomes in 848.9 ?s
-[22:20:31] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.2
-[22:20:31] [Server thread/INFO] (Minecraft) Generating keypair
-[22:20:31] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[22:20:31] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:20:31] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:20:32] [Render thread/INFO] (Minecraft) Preparing spawn area: 78%
-[22:20:32] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[22:20:32] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[22:20:32] [Render thread/INFO] (Minecraft) Time elapsed: 1117 ms
-[22:20:32] [Server thread/INFO] (Minecraft) [@: Set the time to 1000]
-[22:20:32] [Netty Local Client IO #1/INFO] (ClientPlayNetworkAddon for Player402) Negotiated common packet version 1
-[22:20:32] [Netty Server IO #3/INFO] (ServerConfigurationNetworkAddon for Player402) Negotiated common packet version 1
-[22:20:32] [Server thread/ERROR] (Minecraft) Tried to load unrecognized recipe: mysticdeep:abyssute_block removed now.
-[22:20:32] [Server thread/INFO] (Minecraft) Player402[local:E:ebcf22be] logged in with entity id 1359 at (21.73254461916991, -57.88349863207186, -1.5617275297990367)
-[22:20:32] [Server thread/INFO] (Minecraft) Player402 joined the game
-[22:20:32] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Mystic Deep]
-[22:20:32] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Ice Bucket Challenge]
-[22:20:32] [Server thread/INFO] (Minecraft) [@: Set the weather to clear]
-[22:20:32] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
-[22:20:32] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[22:20:32] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[22:20:32] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:20:33] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:20:33] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:20:33] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for START.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ----------------------------------------
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for START.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ----------------------------------------
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ########################################
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for START.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ########################################
-[22:20:33] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Mystic Deep]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for START in 575.5 ?s, totaling 7.081 ms.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for START in 451.9 ?s, totaling 80.56 ms.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for START in 178.0 ?s, totaling 2.835 ms.
-[22:20:33] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Ice Bucket Challenge]
-[22:20:33] [Render thread/INFO] (Minecraft) Loaded 60 advancements
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for END.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ++++++++++++++++++++++++++++++++++++++++
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for END.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ++++++++++++++++++++++++++++++++++++++++
-[22:20:33] [Render thread/INFO] (Minecraft) [System] [CHAT] [@: Set the weather to clear]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ++++++++++++++++++++++++++++++++++++++++
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for END.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] ++++++++++++++++++++++++++++++++++++++++
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for END in 422.3 ?s, totaling 6.466 ms.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for END in 939.7 ?s, totaling 90.70 ms.
-[22:20:33] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for END in 197.0 ?s, totaling 2.409 ms.
-[22:20:47] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:20:47] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:20:47] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:47] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:47] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:47] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:20:50] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:20:50] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:20:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:50] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:20:50] [Server thread/INFO] (Minecraft) Player402 lost connection: Disconnected
-[22:20:50] [Server thread/INFO] (Minecraft) Player402 left the game
-[22:20:50] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[22:20:50] [Server thread/INFO] (Minecraft) Stopping server
-[22:20:50] [Server thread/INFO] (Minecraft) Saving players
-[22:20:50] [Server thread/INFO] (Minecraft) Saving worlds
-[22:20:51] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:20:51] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:20:51] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:20:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (je c'est pas issou): All chunks are saved
-[22:20:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:20:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:20:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
-[22:20:51] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:20:53] [Render thread/INFO] (Minecraft) Deleting level je c'est pas issou
-[22:20:53] [Render thread/INFO] (Minecraft) Attempt 1...
-[22:20:58] [Worker-Main-14/ERROR] (Minecraft) Couldn't load tag minecraft:needs_iron_tool as it is missing following references: #mysticdeep:deepslate_marinite_ore_block (from fabric)
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:raw_marinite_block
-com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"mysticdeep:raw_marinite"}]
-	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:59) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:38) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading recipe mysticdeep:flamestone_gems
-com.google.gson.JsonParseException: Map entry '#' : Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft::blaze_powder"}]
-	at net.minecraft.util.Util.getResult(Util.java:984) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:137) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:59) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:38) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.load(IntegratedServerLoader.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.createSaveLoader(IntegratedServerLoader.java:136) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.server.integrated.IntegratedServerLoader.start(IntegratedServerLoader.java:77) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.start(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.play(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.world.WorldListWidget$WorldEntry.mouseClicked(WorldListWidget.java:246) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:296) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:50) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_1611(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:461) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:95) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22686(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:102) ~[minecraft-common-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.Mouse.method_22684(Mouse.java:183) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
-	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
-	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:196) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1206) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:834) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:226) ~[minecraft-clientOnly-1f338b2c9f-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.24.jar:?]
-	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
-[22:20:58] [Render thread/INFO] (Minecraft) Loaded 7 recipes
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:setsuko_plush: Advancement criteria cannot be empty
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mine_master: Advancement criteria cannot be empty
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mysticstess_plush: Advancement criteria cannot be empty
-[22:20:58] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:demonica_plush: Advancement criteria cannot be empty
-[22:20:58] [Render thread/INFO] (Minecraft) Loaded 1278 advancements
-[22:20:58] [Render thread/INFO] (BiomeModificationImpl) Applied 63 biome modifications to 63 of 64 new biomes in 2.006 ms
-[22:20:58] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.2
-[22:20:58] [Server thread/INFO] (Minecraft) Generating keypair
-[22:20:59] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[22:20:59] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:20:59] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:21:00] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[22:21:00] [Render thread/INFO] (Minecraft) Preparing spawn area: 57%
-[22:21:00] [Render thread/INFO] (Minecraft) Time elapsed: 1614 ms
-[22:21:00] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[22:21:00] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[22:21:00] [Netty Local Client IO #2/INFO] (ClientPlayNetworkAddon for Player402) Negotiated common packet version 1
-[22:21:00] [Netty Server IO #5/INFO] (ServerConfigurationNetworkAddon for Player402) Negotiated common packet version 1
-[22:21:01] [Server thread/INFO] (Minecraft) Player402[local:E:cc8a1f45] logged in with entity id 1517 at (-1325.0036713669076, 32.0, -964.3042121099099)
-[22:21:01] [Server thread/INFO] (Minecraft) Player402 joined the game
-[22:21:01] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
-[22:21:01] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[22:21:01] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[22:21:01] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:02] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:21:02] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:02] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for START.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for START.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:21:02] [Render thread/INFO] (Minecraft) Loaded 26 advancements
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for START.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for START in 591.0 ?s, totaling 6.100 ms.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for START in 681.0 ?s, totaling 85.58 ms.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for START in 350.2 ?s, totaling 3.318 ms.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] ----------------------------------------
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin starting main-reload for END.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (6):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] ----------------------------------------
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin starting main-reload for END.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] ****************************************
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin starting main-reload for END.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] Plugins (3):
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) FabricFluidAPISupportPlugin
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] ****************************************
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIPlugin finished post-reload for END in 350.8 ?s, totaling 5.862 ms.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIClientPlugin finished post-reload for END in 690.3 ?s, totaling 103.7 ms.
-[22:21:02] [REI-ReloadPlugins/INFO] (REI) [REI] REIServerPlugin finished post-reload for END in 333.0 ?s, totaling 4.198 ms.
-[22:21:04] [Server thread/INFO] (Minecraft) [Player402: Set spawn point to -1326, 32, -965 [0.0] in minecraft:overworld for Player402]
-[22:21:04] [Render thread/INFO] (Minecraft) [System] [CHAT] Set spawn point to -1326, 32, -965 [0.0] in minecraft:overworld for Player402
-[22:21:12] [Server thread/INFO] (Minecraft) Locating element minecraft:stronghold took 26 ms
-[22:21:12] [Render thread/INFO] (Minecraft) [System] [CHAT] The nearest minecraft:stronghold is at [64, ~, -1840] (1642 blocks away)
-[22:21:14] [Server thread/INFO] (Minecraft) [Player402: Teleported Player402 to 64.500000, 32.000000, -1839.500000]
-[22:21:14] [Render thread/INFO] (Minecraft) [System] [CHAT] Teleported Player402 to 64.500000, 32.000000, -1839.500000
-[22:21:16] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
-[22:21:16] [Server thread/INFO] (Minecraft) [Player402: Set own game mode to Spectator Mode]
-[22:21:16] [Render thread/INFO] (Minecraft) [System] [CHAT] Set own game mode to Spectator Mode
-[22:21:27] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Eye Spy]
-[22:21:27] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Eye Spy]
-[22:21:27] [Render thread/INFO] (Minecraft) Loaded 32 advancements
-[22:21:28] [Server thread/INFO] (Minecraft) [Player402: Set own game mode to Creative Mode]
-[22:21:28] [Render thread/INFO] (Minecraft) [System] [CHAT] Set own game mode to Creative Mode
-[22:21:33] [Render thread/INFO] (Minecraft) Loaded 34 advancements
-[22:21:43] [Server thread/INFO] (Minecraft) Player402 has made the advancement [The End?]
-[22:21:43] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='the_end'}
-[22:21:43] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[22:21:43] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:21:43] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:21:43] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='the_end'}
-[22:21:43] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:21:43] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:21:44] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:21:51] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:21:51] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:21:51] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:21:51] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:21:51] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:21:51] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:21:51] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [The End?]
-[22:21:52] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to HOVERED.
-[22:21:52] [Render thread/INFO] (dynamic_fps) State changed from HOVERED to UNFOCUSED.
-[22:21:52] [Render thread/INFO] (Minecraft) Loaded 40 advancements
-[22:21:52] [Server thread/INFO] (Minecraft) Scanning for legacy world dragon fight...
-[22:21:52] [Server thread/INFO] (Minecraft) Found that the dragon has not yet been killed in this world.
-[22:21:52] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to FOCUSED.
-[22:23:40] [Server thread/INFO] (Minecraft) [Player402: Gave 1 [Shadow Chestplate] to Player402]
-[22:23:40] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave 1 [Shadow Chestplate] to Player402
-[22:23:44] [Server thread/INFO] (Minecraft) [Player402: Gave 1 [Shadow Helmet] to Player402]
-[22:23:44] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave 1 [Shadow Helmet] to Player402
-[22:23:50] [Server thread/INFO] (Minecraft) [Player402: Gave 1 [Shadow Boots] to Player402]
-[22:23:50] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave 1 [Shadow Boots] to Player402
-[22:23:53] [Server thread/INFO] (Minecraft) [Player402: Gave 1 [Shadow Leggings] to Player402]
-[22:23:53] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave 1 [Shadow Leggings] to Player402
-[22:24:09] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.24.09.png
-[22:24:12] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.24.11.png
-[22:24:19] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.24.19.png
-[22:24:21] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:24:21] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:24:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:24:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:24:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:24:22] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to UNFOCUSED.
-[22:24:28] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to SUSPENDED.
-[22:24:29] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:24:41] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.24.41.png
-[22:24:45] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to UNFOCUSED.
-[22:25:09] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to FOCUSED.
-[22:25:12] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.25.12.png
-[22:25:21] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.25.20.png
-[22:25:22] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:25:22] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:25:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:25:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:25:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:25:23] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to UNFOCUSED.
-[22:25:34] [Render thread/INFO] (dynamic_fps) State changed from UNFOCUSED to SUSPENDED.
-[22:25:35] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:25:55] [Server thread/INFO] (Minecraft) [Player402: Killed Ender Dragon]
-[22:25:55] [Render thread/INFO] (Minecraft) [System] [CHAT] Killed Ender Dragon
-[22:26:00] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:26:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:26:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:26:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:26:04] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='the_end'} => NamespacedId{namespace='minecraft', name='overworld'}
-[22:26:04] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='the_end'}
-[22:26:04] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[22:26:04] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:26:05] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:26:05] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:26:05] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:26:05] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:26:05] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:26:05] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:27:13] [Server thread/INFO] (Minecraft) [Player402: Set own game mode to Spectator Mode]
-[22:27:13] [Render thread/INFO] (Minecraft) [System] [CHAT] Set own game mode to Spectator Mode
-[22:27:50] [Server thread/INFO] (Minecraft) [Player402: Set own game mode to Creative Mode]
-[22:27:50] [Render thread/INFO] (Minecraft) [System] [CHAT] Set own game mode to Creative Mode
-[22:28:15] [Server thread/INFO] (Minecraft) [Player402: Set the time to 1000]
-[22:28:15] [Render thread/INFO] (Minecraft) [System] [CHAT] Set the time to 1000
-[22:28:22] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.28.22.png
-[22:28:25] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.28.24.png
-[22:28:37] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Ice Bucket Challenge]
-[22:28:37] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Ice Bucket Challenge]
-[22:28:37] [Render thread/INFO] (Minecraft) Loaded 43 advancements
-[22:28:54] [Server thread/INFO] (Minecraft) Player402 has made the advancement [We Need to Go Deeper]
-[22:28:54] [Render thread/INFO] (Iris) Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='the_nether'}
-[22:28:54] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:28:54] [Render thread/INFO] (Iris) Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[22:28:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:28:54] [Render thread/INFO] (Iris) Creating pipeline for dimension NamespacedId{namespace='minecraft', name='the_nether'}
-[22:28:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:28:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:28:54] [Render thread/INFO] (Iris) Starting custom uniform resolving
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10092":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10152":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10240":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10364":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10100":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10084":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10032":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10088":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10104":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10096":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone has no property with the name variant, ignoring!
-[22:29:01] [Render thread/WARN] (Iris) Error while parsing the block ID map entry for "block.10416":
-[22:29:01] [Render thread/WARN] (Iris) - The block minecraft:stone_slab has no property with the name variant, ignoring!
-[22:29:01] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:29:01] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:29:01] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
-[22:29:01] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
-[22:29:01] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:01] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [We Need to Go Deeper]
-[22:29:01] [Render thread/INFO] (Minecraft) Loaded 61 advancements
-[22:29:01] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:02] [Render thread/INFO] (Minecraft) Loaded 61 advancements
-[22:29:03] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:08] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:09] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:11] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:12] [Render thread/WARN] (Minecraft) Received passengers for unknown entity
-[22:29:19] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Those Were the Days]
-[22:29:19] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Those Were the Days]
-[22:29:19] [Render thread/INFO] (Minecraft) Loaded 61 advancements
-[22:29:27] [Server thread/INFO] (Minecraft) Player402 has made the advancement [War Pigs]
-[22:29:27] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [War Pigs]
-[22:29:27] [Render thread/INFO] (Minecraft) Loaded 61 advancements
-[22:29:28] [Render thread/INFO] (Minecraft) Loaded 62 advancements
-[22:29:30] [Render thread/INFO] (Minecraft) Loaded 64 advancements
-[22:29:30] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Hidden in the Depths]
-[22:29:30] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Hidden in the Depths]
-[22:29:30] [Render thread/INFO] (Minecraft) Loaded 66 advancements
-[22:29:31] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Acquire Hardware]
-[22:29:31] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Acquire Hardware]
-[22:29:31] [Render thread/INFO] (Minecraft) Loaded 95 advancements
-[22:29:32] [Render thread/INFO] (Minecraft) Loaded 101 advancements
-[22:29:45] [Render thread/INFO] (Minecraft) Loaded 102 advancements
-[22:29:45] [Render thread/INFO] (Minecraft) Loaded 115 advancements
-[22:30:08] [Render thread/INFO] (Minecraft) Loaded 115 advancements
-[22:30:13] [Render thread/INFO] (Minecraft) Loaded 116 advancements
-[22:30:16] [Render thread/INFO] (Minecraft) Loaded 127 advancements
-[22:30:21] [Server thread/INFO] (Minecraft) Player402 has made the advancement [Diamonds!]
-[22:30:21] [Render thread/INFO] (Minecraft) [System] [CHAT] Player402 has made the advancement [Diamonds!]
-[22:30:21] [Render thread/INFO] (Minecraft) Loaded 140 advancements
-[22:31:03] [Render thread/INFO] (Minecraft) Loaded 140 advancements
-[22:31:04] [Render thread/INFO] (Minecraft) Loaded 142 advancements
-[22:33:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2023-11-12_22.33.02.png
-[22:33:03] [Render thread/INFO] (dynamic_fps) State changed from FOCUSED to SUSPENDED.
-[22:33:03] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[22:33:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:33:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:33:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:33:11] [CullThread/INFO] (Minecraft) [STDOUT]: Shutting down culling task!
-[22:33:11] [Render thread/INFO] (Minecraft) Stopping!
-[22:33:11] [Render thread/INFO] (dynamic_fps) State changed from SUSPENDED to FOCUSED.
-[22:33:11] [Server thread/INFO] (Minecraft) Player402 lost connection: Disconnected
-[22:33:11] [Server thread/INFO] (Minecraft) Player402 left the game
-[22:33:11] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[22:33:11] [Server thread/INFO] (Minecraft) Stopping server
-[22:33:11] [Server thread/INFO] (Minecraft) Saving players
-[22:33:11] [Server thread/INFO] (Minecraft) Saving worlds
-[22:33:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:33:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:33:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:33:12] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World (3)): All chunks are saved
-[22:33:12] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:33:12] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:33:12] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
-[22:33:12] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[13:07:48] [Render thread/INFO] (Minecraft) Loaded 7 recipes
+[13:07:48] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:setsuko_plush: Advancement criteria cannot be empty
+[13:07:48] [Render thread/ERROR] (Minecraft) Parsing error loading custom advancement mysticdeep:mine_master: Advancement criteria cannot be empty
+[13:07:49] [Render thread/INFO] (Minecraft) Loaded 1293 advancements
+[13:07:50] [Render thread/INFO] (BiomeModificationImpl) Applied 11 biome modifications to 11 of 64 new biomes in 43.60 ms
+[13:07:50] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.2
+[13:07:50] [Server thread/INFO] (Minecraft) Generating keypair
+[13:07:51] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:57] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:07:58] [Render thread/INFO] (Minecraft) Preparing spawn area: 8%
+[13:07:58] [Render thread/INFO] (Minecraft) Preparing spawn area: 32%
+[13:07:59] [Render thread/INFO] (Minecraft) Time elapsed: 8374 ms
+[13:08:00] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[13:08:00] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[13:08:06] [Netty Server IO #1/INFO] (ServerConfigurationNetworkAddon for Player979) Negotiated common packet version 1
+[13:08:06] [Netty Local Client IO #0/INFO] (ClientPlayNetworkAddon for Player979) Negotiated common packet version 1
+[13:08:07] [Server thread/INFO] (Minecraft) Player979[local:E:72ab43d6] logged in with entity id 81 at (-8.327958096812118, -60.0, -2.408395497233628)
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 joined the game
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Mystic Deep]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Marinite Ingot]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Marinite Block]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Marinite Gem]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Abyssite Gem]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Abyssite Ingot]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [All Plushies]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [levraisteeltv Plush]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Mysticstess Plush]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [M26G Plush]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Abyssite block]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Flamestone Gem]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Flamestone Ingot]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Demonica Plush]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Flamestone block]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Earthcore Gem]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Earthcore Ingot]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make an Earthcore block]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Shadow Gem]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Setsuko Plush]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Shadow Ingot]
+[13:08:07] [Server thread/INFO] (Minecraft) Player979 has made the advancement [Make a Shadow block]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Mystic Deep]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Marinite Ingot]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Marinite Block]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Marinite Gem]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Abyssite Gem]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Abyssite Ingot]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [All Plushies]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [levraisteeltv Plush]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Mysticstess Plush]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [M26G Plush]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Abyssite block]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Flamestone Gem]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Flamestone Ingot]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Demonica Plush]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Flamestone block]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Earthcore Gem]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Earthcore Ingot]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make an Earthcore block]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Shadow Gem]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Setsuko Plush]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Shadow Ingot]
+[13:08:10] [Render thread/INFO] (Minecraft) [System] [CHAT] Player979 has made the advancement [Make a Shadow block]
+[13:08:10] [Render thread/INFO] (Minecraft) Loaded 25 advancements
+[13:08:30] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:08:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:08:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:08:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:08:31] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:08:33] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:08:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:08:34] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:08:34] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:08:34] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:08:34] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:08:35] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:08:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:08:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:08:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:13:16] [Render thread/INFO] (Minecraft) Stopping!
+[13:13:16] [Server thread/INFO] (Minecraft) Player979 lost connection: Disconnected
+[13:13:16] [Server thread/INFO] (Minecraft) Player979 left the game
+[13:13:17] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[13:13:17] [Server thread/INFO] (Minecraft) Stopping server
+[13:13:17] [Server thread/INFO] (Minecraft) Saving players
+[13:13:17] [Server thread/INFO] (Minecraft) Saving worlds

@@ -1,0 +1,95 @@
+{
+
+    "item.mysticdeep.beer_chope":"Jarra de cerveza",
+    "item.mysticdeep.chope":"Jarra",
+
+    "item.mysticdeep.marinite_raw": "Marinita bruta",
+
+    "item.mysticdeep.marinite_ingot": "Lingote de marinita",
+    "item.mysticdeep.abyssite_ingot": "Lingote de abisita",
+    "item.mysticdeep.earthcore_ingot": "Lingote de núcleotierra",
+    "item.mysticdeep.flamestone_ingot": "Lingote de piedrafuego",
+    "item.mysticdeep.shadow_ingot": "Lingote de sombra",
+    
+    "item.mysticdeep.marinite_gems": "Joya de marinita",
+    "item.mysticdeep.abyssite_gems": "Joya de abisita",
+    "item.mysticdeep.earthcore_gems": "Joya de núcleotierra",
+    "item.mysticdeep.flamestone_gems": "Joya de piedrafuego",
+    "item.mysticdeep.shadow_gems": "Joya de sombra",
+
+    "block.mysticdeep.raw_marinite_block": "Bloque de marinita bruta",
+    "block.mysticdeep.marinite_block": "Bloque de marinita",
+    "block.mysticdeep.abyssite_block": "Bloque de abisita",
+    "block.mysticdeep.earthcore_block": "Bloque de núcleotierra",
+    "block.mysticdeep.flamestone_block": "Bloque de piedrafuego",
+    "block.mysticdeep.shadow_block": "Bloque de sombra",
+
+    "block.mysticdeep.marinite_ore_block": "Mineral de marinita",
+    "block.mysticdeep.deepslate_marinite_ore_block": "Mineral de marinita de pizarra profunda",
+    "block.mysticdeep.shadow_ore_block": "Mineral de sombra",
+    "block.mysticdeep.flamestone_ore_block": "Mineral de piedrafuego",
+
+    "item.mysticdeep.setsuko_plush": "Felpa de Setsuko",
+    "item.mysticdeep.demonica_plush": "Felpa de Demonica",
+    "item.mysticdeep.mysticstess_plush": "Felpa de Mysticstess",
+    "item.mysticdeep.levraisteeltv_plush": "Felpa de levraisteeltv",
+    "item.mysticdeep.m26g_plush": "Felpa de M26G",
+
+    "item.mysticdeep.marinite_sword" : "Espada de marinita",
+    "item.mysticdeep.marinite_pickaxe" : "Pico de marinita",
+    "item.mysticdeep.marinite_axe" : "Hacha de marinita",
+    "item.mysticdeep.marinite_shovel" : "Pala de marinita",
+    "item.mysticdeep.marinite_hoe" : "Azada de marinita",
+
+    "item.mysticdeep.abyssite_sword" : "Espada de abisita",
+    "item.mysticdeep.abyssite_pickaxe" : "Pico de abisita",
+    "item.mysticdeep.abyssite_axe" : "Hacha  de abisita",
+    "item.mysticdeep.abyssite_shovel" : "Pala de abisita",
+    "item.mysticdeep.abyssite_hoe" : "Azada de abisita",
+
+    "item.mysticdeep.flamestone_sword" : "Espada de piedrafuego",
+    "item.mysticdeep.flamestone_pickaxe" : "Pico de piedrafuego",
+    "item.mysticdeep.flamestone_axe" : "Hacha de piedrafuego",
+    "item.mysticdeep.flamestone_shovel" : "Pala de piedrafuego",
+    "item.mysticdeep.flamestone_hoe" : "Azada de piedrafuego",
+
+    "item.mysticdeep.earthcore_sword" : "Espada de núcleotierra",
+    "item.mysticdeep.earthcore_pickaxe" : "Pico de núcleotierra",
+    "item.mysticdeep.earthcore_axe" : "Hacha de núcleotierra",
+    "item.mysticdeep.earthcore_shovel" : "Pala de núcleotierra",
+    "item.mysticdeep.earthcore_hoe" : "Azada de núcleotierra",
+
+    "item.mysticdeep.shadow_sword" : "Espada de sombra",
+    "item.mysticdeep.shadow_pickaxe" : "Pico de sombra",
+    "item.mysticdeep.shadow_axe" : "Hacha de sombra",
+    "item.mysticdeep.shadow_shovel" : "Pala de sombra",
+    "item.mysticdeep.shadow_hoe" : "Azada de sombra",
+
+    "item.mysticdeep.marinite_helmet" : "Casco de marinita",
+    "item.mysticdeep.marinite_chestplate" : "Peto de marinita",
+    "item.mysticdeep.marinite_leggings" : "Grebas de marinita",
+    "item.mysticdeep.marinite_boots" : "Botas de marinita",
+
+    "item.mysticdeep.abyssite_helmet" : "Casco de abisita",
+    "item.mysticdeep.abyssite_chestplate" : "Peto de abisita",
+    "item.mysticdeep.abyssite_leggings" : "Grebas de abisita",
+    "item.mysticdeep.abyssite_boots" : "Botas de abisita",
+
+    "item.mysticdeep.earthcore_helmet" : "Casco de núcleotierra",
+    "item.mysticdeep.earthcore_chestplate" : "Peto de núcleotierra",
+    "item.mysticdeep.earthcore_leggings" : "Grebas de núcleotierra",
+    "item.mysticdeep.earthcore_boots" : "Botas de núcleotierra",
+
+    "item.mysticdeep.flamestone_helmet" : "Casco de piedrafuego",
+    "item.mysticdeep.flamestone_chestplate" : "Peto de piedrafuego",
+    "item.mysticdeep.flamestone_leggings" : "Grebas de piedrafuego",
+    "item.mysticdeep.flamestone_boots" : "Botas de piedrafuego",
+
+    "item.mysticdeep.shadow_helmet" : "Casco de sombra",
+    "item.mysticdeep.shadow_chestplate" : "Peto de sombra",
+    "item.mysticdeep.shadow_leggings" : "Grebas de sombra",
+    "item.mysticdeep.shadow_boots" : "Botas de sombra",
+
+    "itemgroup.MysticDeep": "Mystic Deep"
+  }
+  

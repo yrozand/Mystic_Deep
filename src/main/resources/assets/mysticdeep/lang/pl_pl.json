@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Piwo Chope",
+  "item.mysticdeep.chope": "Chope",
+
+  "item.mysticdeep.marinite_raw": "Surowy Marinit",
+
+  "item.mysticdeep.marinite_ingot": "Stop Marinitowy",
+  "item.mysticdeep.abyssite_ingot": "Stop Abisytowy",
+  "item.mysticdeep.earthcore_ingot": "Stop Rdzenia Ziemi",
+  "item.mysticdeep.flamestone_ingot": "Stop Płomieniowy",
+  "item.mysticdeep.shadow_ingot": "Stop Cieni",
+
+  "item.mysticdeep.marinite_gems": "Klejnoty Marinitu",
+  "item.mysticdeep.abyssite_gems": "Klejnoty Abisytu",
+  "item.mysticdeep.earthcore_gems": "Klejnoty Rdzenia Ziemi",
+  "item.mysticdeep.flamestone_gems": "Klejnoty Płomieniowe",
+  "item.mysticdeep.shadow_gems": "Klejnoty Cienia",
+
+  "block.mysticdeep.raw_marinite_block": "Blok Surowego Marinitu",
+  "block.mysticdeep.marinite_block": "Blok Marinitu",
+  "block.mysticdeep.abyssite_block": "Blok Abisytu",
+  "block.mysticdeep.earthcore_block": "Blok Rdzenia Ziemi",
+  "block.mysticdeep.flamestone_block": "Blok Płomieniowy",
+  "block.mysticdeep.shadow_block": "Blok Cienia",
+
+  "block.mysticdeep.marinite_ore_block": "Ruda Marinitu",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Głębokosłupkowa Ruda Marinitu",
+  "block.mysticdeep.shadow_ore_block": "Ruda Cienia",
+  "block.mysticdeep.flamestone_ore_block": "Ruda Płomieniowa",
+
+  "item.mysticdeep.setsuko_plush": "Pluszak Setsuko",
+  "item.mysticdeep.demonica_plush": "Pluszak Démonica",
+  "item.mysticdeep.mysticstess_plush": "Pluszak Mysticstess",
+  "item.mysticdeep.levraisteeltv_plush": "Pluszak levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Pluszak M26G",
+  "item.mysticstess.beer_chope": "Piwo Chope",
+
+  "item.mysticdeep.marinite_sword": "Miecz Marinitowy",
+  "item.mysticdeep.marinite_pickaxe": "Kilof Marinitowy",
+  "item.mysticdeep.marinite_axe": "Topór Marinitowy",
+  "item.mysticdeep.marinite_shovel": "Łopata Marinitowa",
+  "item.mysticdeep.marinite_hoe": "Motyka Marinitowa",
+
+  "item.mysticdeep.abyssite_sword": "Miecz Abisytowy",
+  "item.mysticdeep.abyssite_pickaxe": "Kilof Abisytowy",
+  "item.mysticdeep.abyssite_axe": "Topór Abisytowy",
+  "item.mysticdeep.abyssite_shovel": "Łopata Abisytowa",
+  "item.mysticdeep.abyssite_hoe": "Motyka Abisytowa",
+
+  "item.mysticdeep.flamestone_sword": "Miecz Płomieniowy",
+  "item.mysticdeep.flamestone_pickaxe": "Kilof Płomieniowy",
+  "item.mysticdeep.flamestone_axe": "Topór Płomieniowy",
+  "item.mysticdeep.flamestone_shovel": "Łopata Płomieniowa",
+  "item.mysticdeep.flamestone_hoe": "Motyka Płomieniowa",
+
+  "item.mysticdeep.earthcore_sword": "Miecz Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_pickaxe": "Kilof Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_axe": "Topór Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_shovel": "Łopata Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_hoe": "Motyka Rdzenia Ziemi",
+
+  "item.mysticdeep.shadow_sword": "Miecz Cienia",
+  "item.mysticdeep.shadow_pickaxe": "Kilof Cienia",
+  "item.mysticdeep.shadow_axe": "Topór Cienia",
+  "item.mysticdeep.shadow_shovel": "Łopata Cienia",
+  "item.mysticdeep.shadow_hoe": "Motyka Cienia",
+
+  "item.mysticdeep.marinite_helmet": "Hełm Marinitowy",
+  "item.mysticdeep.marinite_chestplate": "Napiersnik Marinitowy",
+  "item.mysticdeep.marinite_leggings": "Nagolenniki Marinitowe",
+  "item.mysticdeep.marinite_boots": "Buty Marinitowe",
+
+  "item.mysticdeep.abyssite_helmet": "Hełm Abisytowy",
+  "item.mysticdeep.abyssite_chestplate": "Napiersnik Abisytowy",
+  "item.mysticdeep.abyssite_leggings": "Nagolenniki Abisytowe",
+  "item.mysticdeep.abyssite_boots": "Buty Abisytowe",
+
+  "item.mysticdeep.earthcore_helmet": "Hełm Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_chestplate": "Napiersnik Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_leggings": "Nagolenniki Rdzenia Ziemi",
+  "item.mysticdeep.earthcore_boots": "Buty Rdzenia Ziemi",
+
+  "item.mysticdeep.flamestone_helmet": "Hełm Płomieniowy",
+  "item.mysticdeep.flamestone_chestplate": "Napiersnik Płomieniowy",
+  "item.mysticdeep.flamestone_leggings": "Nagolenniki Płomieniowe",
+  "item.mysticdeep.flamestone_boots": "Buty Płomieniowe",
+
+  "item.mysticdeep.shadow_helmet": "Hełm Cienia",
+  "item.mysticdeep.shadow_chestplate": "Napiersnik Cienia",
+  "item.mysticdeep.shadow_leggings": "Nagolenniki Cienia",
+  "item.mysticdeep.shadow_boots": "Buty Cienia",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

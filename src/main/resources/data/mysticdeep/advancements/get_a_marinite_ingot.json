@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:marinite_ingot"
+      },
+      "title": "Make a Marinite Ingot",
+      "description": "A start towards an abyss!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:mysticdeep",
+    "criteria": {
+      "has_marinite_ingot": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:marinite_ingot"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

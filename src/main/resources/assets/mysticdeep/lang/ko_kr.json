@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "맥주 쇠잔",
+  "item.mysticdeep.chope": "쇠잔",
+
+  "item.mysticdeep.marinite_raw": "날조된 마리나이트",
+
+  "item.mysticdeep.marinite_ingot": "마리나이트 주괴",
+  "item.mysticdeep.abyssite_ingot": "어비사이트 주괴",
+  "item.mysticdeep.earthcore_ingot": "어스코어 주괴",
+  "item.mysticdeep.flamestone_ingot": "플레임스톤 주괴",
+  "item.mysticdeep.shadow_ingot": "섀도우 주괴",
+  
+  "item.mysticdeep.marinite_gems": "마리나이트 보석",
+  "item.mysticdeep.abyssite_gems": "어비사이트 보석",
+  "item.mysticdeep.earthcore_gems": "어스코어 보석",
+  "item.mysticdeep.flamestone_gems": "플레임스톤 보석",
+  "item.mysticdeep.shadow_gems": "섀도우 보석",
+
+  "block.mysticdeep.raw_marinite_block": "날조된 마리나이트 블록",
+  "block.mysticdeep.marinite_block": "마리나이트 블록",
+  "block.mysticdeep.abyssite_block": "어비사이트 블록",
+  "block.mysticdeep.earthcore_block": "어스코어 블록",
+  "block.mysticdeep.flamestone_block": "플레임스톤 블록",
+  "block.mysticdeep.shadow_block": "섀도우 블록",
+
+  "block.mysticdeep.marinite_ore_block": "마리나이트 광석",
+  "block.mysticdeep.deepslate_marinite_ore_block": "딥슬레이트 마리나이트 광석",
+  "block.mysticdeep.shadow_ore_block": "섀도우 광석",
+  "block.mysticdeep.flamestone_ore_block": "플레임스톤 광석",
+
+  "item.mysticdeep.setsuko_plush": "세츠코 인형",
+  "item.mysticdeep.demonica_plush": "데모니카 인형",
+  "item.mysticdeep.mysticstess_plush": "미스틱 스태스 인형",
+  "item.mysticdeep.levraisteeltv_plush": "레브라이스텔TV 인형",
+  "item.mysticdeep.m26g_plush": "M26G 인형",
+  "item.mysticstess.beer_chope": "맥주 쇠잔",
+
+  "item.mysticdeep.marinite_sword" : "마리나이트 검",
+  "item.mysticdeep.marinite_pickaxe" : "마리나이트 곡괭이",
+  "item.mysticdeep.marinite_axe" : "마리나이트 도끼",
+  "item.mysticdeep.marinite_shovel" : "마리나이트 삽",
+  "item.mysticdeep.marinite_hoe" : "마리나이트 괭이",
+
+  "item.mysticdeep.abyssite_sword" : "어비사이트 검",
+  "item.mysticdeep.abyssite_pickaxe" : "어비사이트 곡괭이",
+  "item.mysticdeep.abyssite_axe" : "어비사이트 도끼",
+  "item.mysticdeep.abyssite_shovel" : "어비사이트 삽",
+  "item.mysticdeep.abyssite_hoe" : "어비사이트 괭이",
+
+  "item.mysticdeep.flamestone_sword" : "플레임스톤 검",
+  "item.mysticdeep.flamestone_pickaxe" : "플레임스톤 곡괭이",
+  "item.mysticdeep.flamestone_axe" : "플레임스톤 도끼",
+  "item.mysticdeep.flamestone_shovel" : "플레임스톤 삽",
+  "item.mysticdeep.flamestone_hoe" : "플레임스톤 괭이",
+
+  "item.mysticdeep.earthcore_sword" : "어스코어 검",
+  "item.mysticdeep.earthcore_pickaxe" : "어스코어 곡괭이",
+  "item.mysticdeep.earthcore_axe" : "어스코어 도끼",
+  "item.mysticdeep.earthcore_shovel" : "어스코어 삽",
+  "item.mysticdeep.earthcore_hoe" : "어스코어 괭이",
+
+  "item.mysticdeep.shadow_sword" : "섀도우 검",
+  "item.mysticdeep.shadow_pickaxe" : "섀도우 곡괭이",
+  "item.mysticdeep.shadow_axe" : "섀도우 도끼",
+  "item.mysticdeep.shadow_shovel" : "섀도우 삽",
+  "item.mysticdeep.shadow_hoe" : "섀도우 괭이",
+
+  "item.mysticdeep.marinite_helmet" : "마리나이트 투구",
+  "item.mysticdeep.marinite_chestplate" : "마리나이트 갑옷",
+  "item.mysticdeep.marinite_leggings" : "마리나이트 다리보호구",
+  "item.mysticdeep.marinite_boots" : "마리나이트 부츠",
+
+  "item.mysticdeep.abyssite_helmet" : "어비사이트 투구",
+  "item.mysticdeep.abyssite_chestplate" : "어비사이트 갑옷",
+  "item.mysticdeep.abyssite_leggings" : "어비사이트 다리보호구",
+  "item.mysticdeep.abyssite_boots" : "어비사이트 부츠",
+
+  "item.mysticdeep.earthcore_helmet" : "어스코어 투구",
+  "item.mysticdeep.earthcore_chestplate" : "어스코어 갑옷",
+  "item.mysticdeep.earthcore_leggings" : "어스코어 다리보호구",
+  "item.mysticdeep.earthcore_boots" : "어스코어 부츠",
+
+  "item.mysticdeep.flamestone_helmet" : "플레임스톤 투구",
+  "item.mysticdeep.flamestone_chestplate" : "플레임스톤 갑옷",
+  "item.mysticdeep.flamestone_leggings" : "플레임스톤 다리보호구",
+  "item.mysticdeep.flamestone_boots" : "플레임스톤 부츠",
+
+  "item.mysticdeep.shadow_helmet" : "섀도우 투구",
+  "item.mysticdeep.shadow_chestplate" : "섀도우 갑옷",
+  "item.mysticdeep.shadow_leggings" : "섀도우 다리보호구",
+  "item.mysticdeep.shadow_boots" : "섀도우 부츠",
+
+  "itemgroup.MysticDeep": "미스틱 딥"
+}

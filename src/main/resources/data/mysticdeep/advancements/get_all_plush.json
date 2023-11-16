@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:all_plush"
+      },
+      "title": "All Plushies",
+      "description": "You got all the plushies!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_a_shadow_block",
+    "criteria": {
+      "has_all_plush": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:mysticstess_plush",
+                "mysticdeep:demonica_plush",
+                "mysticdeep:levraisteeltv_plush",
+                "mysticdeep:m26g_plush",
+                "mysticdeep:setsuko_plush"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Birra Chope",
+  "item.mysticdeep.chope": "Chope",
+
+  "item.mysticdeep.marinite_raw": "Marinite Grezzo",
+
+  "item.mysticdeep.marinite_ingot": "Lingotto di Marinite",
+  "item.mysticdeep.abyssite_ingot": "Lingotto di Abyssite",
+  "item.mysticdeep.earthcore_ingot": "Lingotto di Earthcore",
+  "item.mysticdeep.flamestone_ingot": "Lingotto di Flamestone",
+  "item.mysticdeep.shadow_ingot": "Lingotto di Shadow",
+  
+  "item.mysticdeep.marinite_gems": "Gemme di Marinite",
+  "item.mysticdeep.abyssite_gems": "Gemme di Abyssite",
+  "item.mysticdeep.earthcore_gems": "Gemme di Earthcore",
+  "item.mysticdeep.flamestone_gems": "Gemme di Flamestone",
+  "item.mysticdeep.shadow_gems": "Gemme di Shadow",
+
+  "block.mysticdeep.raw_marinite_block": "Blocco di Marinite Grezzo",
+  "block.mysticdeep.marinite_block": "Blocco di Marinite",
+  "block.mysticdeep.abyssite_block": "Blocco di Abyssite",
+  "block.mysticdeep.earthcore_block": "Blocco di Earthcore",
+  "block.mysticdeep.flamestone_block": "Blocco di Flamestone",
+  "block.mysticdeep.shadow_block": "Blocco di Shadow",
+
+  "block.mysticdeep.marinite_ore_block": "Minerale di Marinite",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Minerale di Marinite di Ardesia",
+  "block.mysticdeep.shadow_ore_block": "Minerale di Shadow",
+  "block.mysticdeep.flamestone_ore_block": "Minerale di Flamestone",
+
+  "item.mysticdeep.setsuko_plush": "Peluche di Setsuko",
+  "item.mysticdeep.demonica_plush": "Peluche di Démonica",
+  "item.mysticdeep.mysticstess_plush": "Peluche di Mystic stess",
+  "item.mysticdeep.levraisteeltv_plush": "Peluche di levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Peluche di M26G",
+  "item.mysticstess.beer_chope": "Chope di Birra",
+
+  "item.mysticdeep.marinite_sword" : "Spada di Marinite",
+  "item.mysticdeep.marinite_pickaxe" : "Piccone di Marinite",
+  "item.mysticdeep.marinite_axe" : "Ascia di Marinite",
+  "item.mysticdeep.marinite_shovel" : "Pala di Marinite",
+  "item.mysticdeep.marinite_hoe" : "Zappa di Marinite",
+
+  "item.mysticdeep.abyssite_sword" : "Spada di Abyssite",
+  "item.mysticdeep.abyssite_pickaxe" : "Piccone di Abyssite",
+  "item.mysticdeep.abyssite_axe" : "Ascia di Abyssite",
+  "item.mysticdeep.abyssite_shovel" : "Pala di Abyssite",
+  "item.mysticdeep.abyssite_hoe" : "Zappa di Abyssite",
+
+  "item.mysticdeep.flamestone_sword" : "Spada di Flamestone",
+  "item.mysticdeep.flamestone_pickaxe" : "Piccone di Flamestone",
+  "item.mysticdeep.flamestone_axe" : "Ascia di Flamestone",
+  "item.mysticdeep.flamestone_shovel" : "Pala di Flamestone",
+  "item.mysticdeep.flamestone_hoe" : "Zappa di Flamestone",
+
+  "item.mysticdeep.earthcore_sword" : "Spada di Earthcore",
+  "item.mysticdeep.earthcore_pickaxe" : "Piccone di Earthcore",
+  "item.mysticdeep.earthcore_axe" : "Ascia di Earthcore",
+  "item.mysticdeep.earthcore_shovel" : "Pala di Earthcore",
+  "item.mysticdeep.earthcore_hoe" : "Zappa di Earthcore",
+
+  "item.mysticdeep.shadow_sword" : "Spada di Shadow",
+  "item.mysticdeep.shadow_pickaxe" : "Piccone di Shadow",
+  "item.mysticdeep.shadow_axe" : "Ascia di Shadow",
+  "item.mysticdeep.shadow_shovel" : "Pala di Shadow",
+  "item.mysticdeep.shadow_hoe" : "Zappa di Shadow",
+
+  "item.mysticdeep.marinite_helmet" : "Elmo di Marinite",
+  "item.mysticdeep.marinite_chestplate" : "Corazza di Marinite",
+  "item.mysticdeep.marinite_leggings" : "Gambali di Marinite",
+  "item.mysticdeep.marinite_boots" : "Stivali di Marinite",
+
+  "item.mysticdeep.abyssite_helmet" : "Elmo di Abyssite",
+  "item.mysticdeep.abyssite_chestplate" : "Corazza di Abyssite",
+  "item.mysticdeep.abyssite_leggings" : "Gambali di Abyssite",
+  "item.mysticdeep.abyssite_boots" : "Stivali di Abyssite",
+
+  "item.mysticdeep.earthcore_helmet" : "Elmo di Earthcore",
+  "item.mysticdeep.earthcore_chestplate" : "Corazza di Earthcore",
+  "item.mysticdeep.earthcore_leggings" : "Gambali di Earthcore",
+  "item.mysticdeep.earthcore_boots" : "Stivali di Earthcore",
+
+  "item.mysticdeep.flamestone_helmet" : "Elmo di Flamestone",
+  "item.mysticdeep.flamestone_chestplate" : "Corazza di Flamestone",
+  "item.mysticdeep.flamestone_leggings" : "Gambali di Flamestone",
+  "item.mysticdeep.flamestone_boots" : "Stivali di Flamestone",
+
+  "item.mysticdeep.shadow_helmet" : "Elmo di Shadow",
+  "item.mysticdeep.shadow_chestplate" : "Corazza di Shadow",
+  "item.mysticdeep.shadow_leggings" : "Gambali di Shadow",
+  "item.mysticdeep.shadow_boots" : "Stivali di Shadow",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

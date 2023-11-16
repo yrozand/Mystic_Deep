@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Пиво Чоп",
+  "item.mysticdeep.chope": "Чоп",
+
+  "item.mysticdeep.marinite_raw": "Сира Марініт",
+
+  "item.mysticdeep.marinite_ingot": "Марініт Інгот",
+  "item.mysticdeep.abyssite_ingot": "Абіссіт Інгот",
+  "item.mysticdeep.earthcore_ingot": "Інгот Земної Кори",
+  "item.mysticdeep.flamestone_ingot": "Інгот Полум'я",
+  "item.mysticdeep.shadow_ingot": "Інгот Тіні",
+  
+  "item.mysticdeep.marinite_gems": "Камені Марініту",
+  "item.mysticdeep.abyssite_gems": "Камені Абіссіту",
+  "item.mysticdeep.earthcore_gems": "Камені Земної Кори",
+  "item.mysticdeep.flamestone_gems": "Камені Полум'я",
+  "item.mysticdeep.shadow_gems": "Камені Тіні",
+
+  "block.mysticdeep.raw_marinite_block": "Блок Сирого Марініту",
+  "block.mysticdeep.marinite_block": "Блок Марініту",
+  "block.mysticdeep.abyssite_block": "Блок Абіссіту",
+  "block.mysticdeep.earthcore_block": "Блок Земної Кори",
+  "block.mysticdeep.flamestone_block": "Блок Полум'я",
+  "block.mysticdeep.shadow_block": "Блок Тіні",
+
+  "block.mysticdeep.marinite_ore_block": "Руда Марініту",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Руда Глибокого Слейту Марініту",
+  "block.mysticdeep.shadow_ore_block": "Руда Тіні",
+  "block.mysticdeep.flamestone_ore_block": "Руда Полум'я",
+
+  "item.mysticdeep.setsuko_plush": "Іграшка Сецуко",
+  "item.mysticdeep.demonica_plush": "Іграшка Демоніки",
+  "item.mysticdeep.mysticstess_plush": "Іграшка Містік Стес",
+  "item.mysticdeep.levraisteeltv_plush": "Іграшка ЛевраістілТВ",
+  "item.mysticdeep.m26g_plush": "Іграшка M26G",
+  "item.mysticstess.beer_chope": "Пиво Чоп",
+
+  "item.mysticdeep.marinite_sword" : "Меч Марініту",
+  "item.mysticdeep.marinite_pickaxe" : "Кирка Марініту",
+  "item.mysticdeep.marinite_axe" : "Сокира Марініту",
+  "item.mysticdeep.marinite_shovel" : "Лопата Марініту",
+  "item.mysticdeep.marinite_hoe" : "Сокира Марініту",
+
+  "item.mysticdeep.abyssite_sword" : "Меч Абіссіту",
+  "item.mysticdeep.abyssite_pickaxe" : "Кирка Абіссіту",
+  "item.mysticdeep.abyssite_axe" : "Сокира Абіссіту",
+  "item.mysticdeep.abyssite_shovel" : "Лопата Абіссіту",
+  "item.mysticdeep.abyssite_hoe" : "Сокира Абіссіту",
+
+  "item.mysticdeep.flamestone_sword" : "Меч Полум'я",
+  "item.mysticdeep.flamestone_pickaxe" : "Кирка Полум'я",
+  "item.mysticdeep.flamestone_axe" : "Сокира Полум'я",
+  "item.mysticdeep.flamestone_shovel" : "Лопата Полум'я",
+  "item.mysticdeep.flamestone_hoe" : "Сокира Полум'я",
+
+  "item.mysticdeep.earthcore_sword" : "Меч Земної Кори",
+  "item.mysticdeep.earthcore_pickaxe" : "Кирка Земної Кори",
+  "item.mysticdeep.earthcore_axe" : "Сокира Земної Кори",
+  "item.mysticdeep.earthcore_shovel" : "Лопата Земної Кори",
+  "item.mysticdeep.earthcore_hoe" : "Сокира Земної Кори",
+
+  "item.mysticdeep.shadow_sword" : "Меч Тіні",
+  "item.mysticdeep.shadow_pickaxe" : "Кирка Тіні",
+  "item.mysticdeep.shadow_axe" : "Сокира Тіні",
+  "item.mysticdeep.shadow_shovel" : "Лопата Тіні",
+  "item.mysticdeep.shadow_hoe" : "Сокира Тіні",
+
+  "item.mysticdeep.marinite_helmet" : "Шолом Марініту",
+  "item.mysticdeep.marinite_chestplate" : "Нагрудник Марініту",
+  "item.mysticdeep.marinite_leggings" : "Поножі Марініту",
+  "item.mysticdeep.marinite_boots" : "Чоботи Марініту",
+
+  "item.mysticdeep.abyssite_helmet" : "Шолом Абіссіту",
+  "item.mysticdeep.abyssite_chestplate" : "Нагрудник Абіссіту",
+  "item.mysticdeep.abyssite_leggings" : "Поножі Абіссіту",
+  "item.mysticdeep.abyssite_boots" : "Чоботи Абіссіту",
+
+  "item.mysticdeep.earthcore_helmet" : "Шолом Земної Кори",
+  "item.mysticdeep.earthcore_chestplate" : "Нагрудник Земної Кори",
+  "item.mysticdeep.earthcore_leggings" : "Поножі Земної Кори",
+  "item.mysticdeep.earthcore_boots" : "Чоботи Земної Кори",
+
+  "item.mysticdeep.flamestone_helmet" : "Шолом Полум'я",
+  "item.mysticdeep.flamestone_chestplate" : "Нагрудник Полум'я",
+  "item.mysticdeep.flamestone_leggings" : "Поножі Полум'я",
+  "item.mysticdeep.flamestone_boots" : "Чоботи Полум'я",
+
+  "item.mysticdeep.shadow_helmet" : "Шолом Тіні",
+  "item.mysticdeep.shadow_chestplate" : "Нагрудник Тіні",
+  "item.mysticdeep.shadow_leggings" : "Поножі Тіні",
+  "item.mysticdeep.shadow_boots" : "Чоботи Тіні",
+
+  "itemgroup.MysticDeep": "Містичний Глибокий"
+}

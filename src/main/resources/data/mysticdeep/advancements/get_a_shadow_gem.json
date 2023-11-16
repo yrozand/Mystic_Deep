@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:shadow_gems"
+      },
+      "title": "Make a Shadow Gem",
+      "description": "The Ender Gem!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_a_flamestone_block",
+    "criteria": {
+      "has_shadow_gem": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:shadow_gems"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  
