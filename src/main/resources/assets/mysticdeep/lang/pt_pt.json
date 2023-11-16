@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Cerveja Chope",
+  "item.mysticdeep.chope": "Chope",
+
+  "item.mysticdeep.marinite_raw": "Marinite Cru",
+
+  "item.mysticdeep.marinite_ingot": "Lingote de Marinite",
+  "item.mysticdeep.abyssite_ingot": "Lingote de Abyssite",
+  "item.mysticdeep.earthcore_ingot": "Lingote de Earthcore",
+  "item.mysticdeep.flamestone_ingot": "Lingote de Flamestone",
+  "item.mysticdeep.shadow_ingot": "Lingote de Shadow",
+  
+  "item.mysticdeep.marinite_gems": "Gemas de Marinite",
+  "item.mysticdeep.abyssite_gems": "Gemas de Abyssite",
+  "item.mysticdeep.earthcore_gems": "Gemas de Earthcore",
+  "item.mysticdeep.flamestone_gems": "Gemas de Flamestone",
+  "item.mysticdeep.shadow_gems": "Gemas de Shadow",
+
+  "block.mysticdeep.raw_marinite_block": "Bloco de Marinite Cru",
+  "block.mysticdeep.marinite_block": "Bloco de Marinite",
+  "block.mysticdeep.abyssite_block": "Bloco de Abyssite",
+  "block.mysticdeep.earthcore_block": "Bloco de Earthcore",
+  "block.mysticdeep.flamestone_block": "Bloco de Flamestone",
+  "block.mysticdeep.shadow_block": "Bloco de Shadow",
+
+  "block.mysticdeep.marinite_ore_block": "Minério de Marinite",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Minério de Marinite de Pedra Profunda",
+  "block.mysticdeep.shadow_ore_block": "Minério de Shadow",
+  "block.mysticdeep.flamestone_ore_block": "Minério de Flamestone",
+
+  "item.mysticdeep.setsuko_plush": "Boneco de Pelúcia Setsuko",
+  "item.mysticdeep.demonica_plush": "Boneco de Pelúcia Démonica",
+  "item.mysticdeep.mysticstess_plush": "Boneco de Pelúcia Mysticstess",
+  "item.mysticdeep.levraisteeltv_plush": "Boneco de Pelúcia levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Boneco de Pelúcia M26G",
+  "item.mysticstess.beer_chope": "Cerveja Chope Mysticstess",
+
+  "item.mysticdeep.marinite_sword" : "Espada de Marinite",
+  "item.mysticdeep.marinite_pickaxe" : "Picareta de Marinite",
+  "item.mysticdeep.marinite_axe" : "Machado de Marinite",
+  "item.mysticdeep.marinite_shovel" : "Pá de Marinite",
+  "item.mysticdeep.marinite_hoe" : "Enxada de Marinite",
+
+  "item.mysticdeep.abyssite_sword" : "Espada de Abyssite",
+  "item.mysticdeep.abyssite_pickaxe" : "Picareta de Abyssite",
+  "item.mysticdeep.abyssite_axe" : "Machado de Abyssite",
+  "item.mysticdeep.abyssite_shovel" : "Pá de Abyssite",
+  "item.mysticdeep.abyssite_hoe" : "Enxada de Abyssite",
+
+  "item.mysticdeep.flamestone_sword" : "Espada de Flamestone",
+  "item.mysticdeep.flamestone_pickaxe" : "Picareta de Flamestone",
+  "item.mysticdeep.flamestone_axe" : "Machado de Flamestone",
+  "item.mysticdeep.flamestone_shovel" : "Pá de Flamestone",
+  "item.mysticdeep.flamestone_hoe" : "Enxada de Flamestone",
+
+  "item.mysticdeep.earthcore_sword" : "Espada de Earthcore",
+  "item.mysticdeep.earthcore_pickaxe" : "Picareta de Earthcore",
+  "item.mysticdeep.earthcore_axe" : "Machado de Earthcore",
+  "item.mysticdeep.earthcore_shovel" : "Pá de Earthcore",
+  "item.mysticdeep.earthcore_hoe" : "Enxada de Earthcore",
+
+  "item.mysticdeep.shadow_sword" : "Espada de Shadow",
+  "item.mysticdeep.shadow_pickaxe" : "Picareta de Shadow",
+  "item.mysticdeep.shadow_axe" : "Machado de Shadow",
+  "item.mysticdeep.shadow_shovel" : "Pá de Shadow",
+  "item.mysticdeep.shadow_hoe" : "Enxada de Shadow",
+
+  "item.mysticdeep.marinite_helmet" : "Elmo de Marinite",
+  "item.mysticdeep.marinite_chestplate" : "Peitoral de Marinite",
+  "item.mysticdeep.marinite_leggings" : "Perneiras de Marinite",
+  "item.mysticdeep.marinite_boots" : "Botas de Marinite",
+
+  "item.mysticdeep.abyssite_helmet" : "Elmo de Abyssite",
+  "item.mysticdeep.abyssite_chestplate" : "Peitoral de Abyssite",
+  "item.mysticdeep.abyssite_leggings" : "Perneiras de Abyssite",
+  "item.mysticdeep.abyssite_boots" : "Botas de Abyssite",
+
+  "item.mysticdeep.earthcore_helmet" : "Elmo de Earthcore",
+  "item.mysticdeep.earthcore_chestplate" : "Peitoral de Earthcore",
+  "item.mysticdeep.earthcore_leggings" : "Perneiras de Earthcore",
+  "item.mysticdeep.earthcore_boots" : "Botas de Earthcore",
+
+  "item.mysticdeep.flamestone_helmet" : "Elmo de Flamestone",
+  "item.mysticdeep.flamestone_chestplate" : "Peitoral de Flamestone",
+  "item.mysticdeep.flamestone_leggings" : "Perneiras de Flamestone",
+  "item.mysticdeep.flamestone_boots" : "Botas de Flamestone",
+
+  "item.mysticdeep.shadow_helmet" : "Elmo de Shadow",
+  "item.mysticdeep.shadow_chestplate" : "Peitoral de Shadow",
+  "item.mysticdeep.shadow_leggings" : "Perneiras de Shadow",
+  "item.mysticdeep.shadow_boots" : "Botas de Shadow",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

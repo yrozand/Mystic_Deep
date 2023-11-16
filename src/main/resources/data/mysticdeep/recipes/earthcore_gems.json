@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#Y#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:grass_block"
+        },
+        "Y": {
+            "item": "mysticdeep:abyssite_gems"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:earthcore_gems",
+        "count": 1
+    }
+}

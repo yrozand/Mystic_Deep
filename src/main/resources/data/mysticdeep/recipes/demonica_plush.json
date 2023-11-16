@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PYP",
+        " P "
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:flamestone_ingot"
+        },
+        "P": {
+            "item": "minecraft:red_wool"
+        },
+        "Y": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:demonica_plush",
+        "count": 1
+    }
+}

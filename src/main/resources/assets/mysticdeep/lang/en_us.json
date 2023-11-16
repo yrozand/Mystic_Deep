@@ -1,0 +1,95 @@
+{
+    "item.mysticdeep.beer_chope":"Beer Chope",
+    "item.mysticdeep.chope":"Chope",
+
+    "item.mysticdeep.marinite_raw": "Raw Marinite",
+
+    "item.mysticdeep.marinite_ingot": "Marinite Ingot",
+    "item.mysticdeep.abyssite_ingot": "Abyssite Ingot",
+    "item.mysticdeep.earthcore_ingot": "Earthcore Ingot",
+    "item.mysticdeep.flamestone_ingot": "Flamestone Ingot",
+    "item.mysticdeep.shadow_ingot": "Shadow Ingot",
+    
+    "item.mysticdeep.marinite_gems": "Gems of Marinite",
+    "item.mysticdeep.abyssite_gems": "Gems of Abyssite",
+    "item.mysticdeep.earthcore_gems": "Gems of Earthcore",
+    "item.mysticdeep.flamestone_gems": "Gems of Flamestone",
+    "item.mysticdeep.shadow_gems": "Gems of Shadow",
+
+    "block.mysticdeep.raw_marinite_block": "Block of Raw Marinite",
+    "block.mysticdeep.marinite_block": "Block of Marinite",
+    "block.mysticdeep.abyssite_block": "Block of Abyssite",
+    "block.mysticdeep.earthcore_block": "Block of Earthcore",
+    "block.mysticdeep.flamestone_block": "Block of Flamestone",
+    "block.mysticdeep.shadow_block": "Block of Shadow",
+
+    "block.mysticdeep.marinite_ore_block": "Marinite Ore",
+    "block.mysticdeep.deepslate_marinite_ore_block": "Deepslate Marinite Ore",
+    "block.mysticdeep.shadow_ore_block": "Shadow Ore",
+    "block.mysticdeep.flamestone_ore_block": "Flamestone Ore",
+
+    "item.mysticdeep.setsuko_plush": "Setsuko Plushie",
+    "item.mysticdeep.demonica_plush": "Démonica Plushie",
+    "item.mysticdeep.mysticstess_plush": "Mystic stess Plushie",
+    "item.mysticdeep.levraisteeltv_plush": "levraisteeltv Plushie",
+    "item.mysticdeep.m26g_plush": "M26G Plushie",
+    "item.mysticstess.beer_chope": "Beer Chope",
+
+    "item.mysticdeep.marinite_sword" : "Marinite Sword",
+    "item.mysticdeep.marinite_pickaxe" : "Marinite Pickaxe",
+    "item.mysticdeep.marinite_axe" : "Marinite Axe",
+    "item.mysticdeep.marinite_shovel" : "Marinite Shovel",
+    "item.mysticdeep.marinite_hoe" : "Marinite Hoe",
+
+    "item.mysticdeep.abyssite_sword" : "Abyssite Sword",
+    "item.mysticdeep.abyssite_pickaxe" : "Abyssite Pickaxe",
+    "item.mysticdeep.abyssite_axe" : "Abyssite Axe",
+    "item.mysticdeep.abyssite_shovel" : "Abyssite Shovel",
+    "item.mysticdeep.abyssite_hoe" : "Abyssite Hoe",
+
+    "item.mysticdeep.flamestone_sword" : "Flamestone Sword",
+    "item.mysticdeep.flamestone_pickaxe" : "Flamestone Pickaxe",
+    "item.mysticdeep.flamestone_axe" : "Flamestone Axe",
+    "item.mysticdeep.flamestone_shovel" : "Flamestone Shovel",
+    "item.mysticdeep.flamestone_hoe" : "Flamestone Hoe",
+
+    "item.mysticdeep.earthcore_sword" : "Earthcore Sword",
+    "item.mysticdeep.earthcore_pickaxe" : "Earthcore Pickaxe",
+    "item.mysticdeep.earthcore_axe" : "Earthcore Axe",
+    "item.mysticdeep.earthcore_shovel" : "Earthcore Shovel",
+    "item.mysticdeep.earthcore_hoe" : "Earthcore Hoe",
+
+    "item.mysticdeep.shadow_sword" : "Shadow Sword",
+    "item.mysticdeep.shadow_pickaxe" : "Shadow Pickaxe",
+    "item.mysticdeep.shadow_axe" : "Shadow Axe",
+    "item.mysticdeep.shadow_shovel" : "Shadow Shovel",
+    "item.mysticdeep.shadow_hoe" : "Shadow Hoe",
+
+    "item.mysticdeep.marinite_helmet" : "Marinite Helmet",
+    "item.mysticdeep.marinite_chestplate" : "Marinite Chestplate",
+    "item.mysticdeep.marinite_leggings" : "Marinite Leggings",
+    "item.mysticdeep.marinite_boots" : "Marinite Boots",
+
+    "item.mysticdeep.abyssite_helmet" : "Abyssite Helmet",
+    "item.mysticdeep.abyssite_chestplate" : "Abyssite Chestplate",
+    "item.mysticdeep.abyssite_leggings" : "Abyssite Leggings",
+    "item.mysticdeep.abyssite_boots" : "Abyssite Boots",
+
+    "item.mysticdeep.earthcore_helmet" : "Earthcore Helmet",
+    "item.mysticdeep.earthcore_chestplate" : "Earthcore Chestplate",
+    "item.mysticdeep.earthcore_leggings" : "Earthcore Leggings",
+    "item.mysticdeep.earthcore_boots" : "Earthcore Boots",
+
+    "item.mysticdeep.flamestone_helmet" : "Flamestone Helmet",
+    "item.mysticdeep.flamestone_chestplate" : "Flamestone Chestplate",
+    "item.mysticdeep.flamestone_leggings" : "Flamestone Leggings",
+    "item.mysticdeep.flamestone_boots" : "Flamestone Boots",
+
+    "item.mysticdeep.shadow_helmet" : "Shadow Helmet",
+    "item.mysticdeep.shadow_chestplate" : "Shadow Chestplate",
+    "item.mysticdeep.shadow_leggings" : "Shadow Leggings",
+    "item.mysticdeep.shadow_boots" : "Shadow Boots",
+
+    "itemgroup.MysticDeep": "Mystic Deep"
+  }
+  

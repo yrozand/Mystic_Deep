@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mysticdeep:shadow_gems"
+        },
+        {
+            "item": "mysticdeep:flamestone_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticdeep:shadow_ingot",
+        "count": 1
+    }
+}

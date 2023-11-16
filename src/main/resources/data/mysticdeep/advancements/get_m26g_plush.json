@@ -1,0 +1,31 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:m26g_plush"
+      },
+      "title": "M26G Plush",
+      "description": "A cat who is a very good friend of the slime demon king!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_a_shadow_block",
+    "criteria": {
+      "has_all_plush": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:mysticstess_plush",
+                "mysticdeep:demonica_plush",
+                "mysticdeep:setsuko_plush"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

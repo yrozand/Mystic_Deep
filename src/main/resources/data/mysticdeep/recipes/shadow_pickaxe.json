@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "mysticdeep:shadow_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:shadow_pickaxe",
+        "count": 1
+    }
+}

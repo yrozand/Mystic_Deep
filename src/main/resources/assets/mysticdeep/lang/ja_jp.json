@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "ビールジョッキ",
+  "item.mysticdeep.chope": "ジョッキ",
+
+  "item.mysticdeep.marinite_raw": "生のマリナイト",
+
+  "item.mysticdeep.marinite_ingot": "マリナイトインゴット",
+  "item.mysticdeep.abyssite_ingot": "アビサイトインゴット",
+  "item.mysticdeep.earthcore_ingot": "アースコアインゴット",
+  "item.mysticdeep.flamestone_ingot": "フレームストーンインゴット",
+  "item.mysticdeep.shadow_ingot": "シャドウインゴット",
+  
+  "item.mysticdeep.marinite_gems": "マリナイトの宝石",
+  "item.mysticdeep.abyssite_gems": "アビサイトの宝石",
+  "item.mysticdeep.earthcore_gems": "アースコアの宝石",
+  "item.mysticdeep.flamestone_gems": "フレームストーンの宝石",
+  "item.mysticdeep.shadow_gems": "シャドウの宝石",
+
+  "block.mysticdeep.raw_marinite_block": "生のマリナイトブロック",
+  "block.mysticdeep.marinite_block": "マリナイトブロック",
+  "block.mysticdeep.abyssite_block": "アビサイトブロック",
+  "block.mysticdeep.earthcore_block": "アースコアブロック",
+  "block.mysticdeep.flamestone_block": "フレームストーンブロック",
+  "block.mysticdeep.shadow_block": "シャドウブロック",
+
+  "block.mysticdeep.marinite_ore_block": "マリナイト鉱石",
+  "block.mysticdeep.deepslate_marinite_ore_block": "深層マリナイト鉱石",
+  "block.mysticdeep.shadow_ore_block": "シャドウ鉱石",
+  "block.mysticdeep.flamestone_ore_block": "フレームストーン鉱石",
+
+  "item.mysticdeep.setsuko_plush": "Setsukoぬいぐるみ",
+  "item.mysticdeep.demonica_plush": "Démonicaぬいぐるみ",
+  "item.mysticdeep.mysticstess_plush": "Mysticstessぬいぐるみ",
+  "item.mysticdeep.levraisteeltv_plush": "levraisteeltvぬいぐるみ",
+  "item.mysticdeep.m26g_plush": "M26Gぬいぐるみ",
+  "item.mysticstess.beer_chope": "ビールジョッキ",
+
+  "item.mysticdeep.marinite_sword": "マリナイトの剣",
+  "item.mysticdeep.marinite_pickaxe": "マリナイトのつるはし",
+  "item.mysticdeep.marinite_axe": "マリナイトの斧",
+  "item.mysticdeep.marinite_shovel": "マリナイトのシャベル",
+  "item.mysticdeep.marinite_hoe": "マリナイトのクワ",
+
+  "item.mysticdeep.abyssite_sword": "アビサイトの剣",
+  "item.mysticdeep.abyssite_pickaxe": "アビサイトのつるはし",
+  "item.mysticdeep.abyssite_axe": "アビサイトの斧",
+  "item.mysticdeep.abyssite_shovel": "アビサイトのシャベル",
+  "item.mysticdeep.abyssite_hoe": "アビサイトのクワ",
+
+  "item.mysticdeep.flamestone_sword": "フレームストーンの剣",
+  "item.mysticdeep.flamestone_pickaxe": "フレームストーンのつるはし",
+  "item.mysticdeep.flamestone_axe": "フレームストーンの斧",
+  "item.mysticdeep.flamestone_shovel": "フレームストーンのシャベル",
+  "item.mysticdeep.flamestone_hoe": "フレームストーンのクワ",
+
+  "item.mysticdeep.earthcore_sword": "アースコアの剣",
+  "item.mysticdeep.earthcore_pickaxe": "アースコアのつるはし",
+  "item.mysticdeep.earthcore_axe": "アースコアの斧",
+  "item.mysticdeep.earthcore_shovel": "アースコアのシャベル",
+  "item.mysticdeep.earthcore_hoe": "アースコアのクワ",
+
+  "item.mysticdeep.shadow_sword": "シャドウの剣",
+  "item.mysticdeep.shadow_pickaxe": "シャドウのつるはし",
+  "item.mysticdeep.shadow_axe": "シャドウの斧",
+  "item.mysticdeep.shadow_shovel": "シャドウのシャベル",
+  "item.mysticdeep.shadow_hoe": "シャドウのクワ",
+
+  "item.mysticdeep.marinite_helmet": "マリナイトのヘルメット",
+  "item.mysticdeep.marinite_chestplate": "マリナイトのチェストプレート",
+  "item.mysticdeep.marinite_leggings": "マリナイトのレギンス",
+  "item.mysticdeep.marinite_boots": "マリナイトのブーツ",
+
+  "item.mysticdeep.abyssite_helmet": "アビサイトのヘルメット",
+  "item.mysticdeep.abyssite_chestplate": "アビサイトのチェストプレート",
+  "item.mysticdeep.abyssite_leggings": "アビサイトのレギンス",
+  "item.mysticdeep.abyssite_boots": "アビサイトのブーツ",
+
+  "item.mysticdeep.earthcore_helmet": "アースコアのヘルメット",
+  "item.mysticdeep.earthcore_chestplate": "アースコアのチェストプレート",
+  "item.mysticdeep.earthcore_leggings": "アースコアのレギンス",
+  "item.mysticdeep.earthcore_boots": "アースコアのブーツ",
+
+  "item.mysticdeep.flamestone_helmet": "フレームストーンのヘルメット",
+  "item.mysticdeep.flamestone_chestplate": "フレームストーンのチェストプレート",
+  "item.mysticdeep.flamestone_leggings": "フレームストーンのレギンス",
+  "item.mysticdeep.flamestone_boots": "フレームストーンのブーツ",
+
+  "item.mysticdeep.shadow_helmet": "シャドウのヘルメット",
+  "item.mysticdeep.shadow_chestplate": "シャドウのチェストプレート",
+  "item.mysticdeep.shadow_leggings": "シャドウのレギンス",
+  "item.mysticdeep.shadow_boots": "シャドウのブーツ",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

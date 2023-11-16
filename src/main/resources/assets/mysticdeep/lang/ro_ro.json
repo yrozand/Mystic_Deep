@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Berii Ciorap",
+  "item.mysticdeep.chope": "Ciorap",
+
+  "item.mysticdeep.marinite_raw": "Marinite Brut",
+
+  "item.mysticdeep.marinite_ingot": "Lingou de Marinite",
+  "item.mysticdeep.abyssite_ingot": "Lingou de Abyssite",
+  "item.mysticdeep.earthcore_ingot": "Lingou de Earthcore",
+  "item.mysticdeep.flamestone_ingot": "Lingou de Flamestone",
+  "item.mysticdeep.shadow_ingot": "Lingou de Shadow",
+  
+  "item.mysticdeep.marinite_gems": "Geme de Marinite",
+  "item.mysticdeep.abyssite_gems": "Geme de Abyssite",
+  "item.mysticdeep.earthcore_gems": "Geme de Earthcore",
+  "item.mysticdeep.flamestone_gems": "Geme de Flamestone",
+  "item.mysticdeep.shadow_gems": "Geme de Shadow",
+
+  "block.mysticdeep.raw_marinite_block": "Bloc de Marinite Brut",
+  "block.mysticdeep.marinite_block": "Bloc de Marinite",
+  "block.mysticdeep.abyssite_block": "Bloc de Abyssite",
+  "block.mysticdeep.earthcore_block": "Bloc de Earthcore",
+  "block.mysticdeep.flamestone_block": "Bloc de Flamestone",
+  "block.mysticdeep.shadow_block": "Bloc de Shadow",
+
+  "block.mysticdeep.marinite_ore_block": "Minereu de Marinite",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Minereu de Marinite Deepslate",
+  "block.mysticdeep.shadow_ore_block": "Minereu de Shadow",
+  "block.mysticdeep.flamestone_ore_block": "Minereu de Flamestone",
+
+  "item.mysticdeep.setsuko_plush": "Jucărie de pluș Setsuko",
+  "item.mysticdeep.demonica_plush": "Jucărie de pluș Démonica",
+  "item.mysticdeep.mysticstess_plush": "Jucărie de pluș Mystic stess",
+  "item.mysticdeep.levraisteeltv_plush": "Jucărie de pluș levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Jucărie de pluș M26G",
+  "item.mysticstess.beer_chope": "Berii Ciorap",
+
+  "item.mysticdeep.marinite_sword" : "Spadă de Marinite",
+  "item.mysticdeep.marinite_pickaxe" : "Coasă de Marinite",
+  "item.mysticdeep.marinite_axe" : "Topor de Marinite",
+  "item.mysticdeep.marinite_shovel" : "Lopată de Marinite",
+  "item.mysticdeep.marinite_hoe" : "Fiert de Marinite",
+
+  "item.mysticdeep.abyssite_sword" : "Spadă de Abyssite",
+  "item.mysticdeep.abyssite_pickaxe" : "Coasă de Abyssite",
+  "item.mysticdeep.abyssite_axe" : "Topor de Abyssite",
+  "item.mysticdeep.abyssite_shovel" : "Lopată de Abyssite",
+  "item.mysticdeep.abyssite_hoe" : "Fiert de Abyssite",
+
+  "item.mysticdeep.flamestone_sword" : "Spadă de Flamestone",
+  "item.mysticdeep.flamestone_pickaxe" : "Coasă de Flamestone",
+  "item.mysticdeep.flamestone_axe" : "Topor de Flamestone",
+  "item.mysticdeep.flamestone_shovel" : "Lopată de Flamestone",
+  "item.mysticdeep.flamestone_hoe" : "Fiert de Flamestone",
+
+  "item.mysticdeep.earthcore_sword" : "Spadă de Earthcore",
+  "item.mysticdeep.earthcore_pickaxe" : "Coasă de Earthcore",
+  "item.mysticdeep.earthcore_axe" : "Topor de Earthcore",
+  "item.mysticdeep.earthcore_shovel" : "Lopată de Earthcore",
+  "item.mysticdeep.earthcore_hoe" : "Fiert de Earthcore",
+
+  "item.mysticdeep.shadow_sword" : "Spadă de Shadow",
+  "item.mysticdeep.shadow_pickaxe" : "Coasă de Shadow",
+  "item.mysticdeep.shadow_axe" : "Topor de Shadow",
+  "item.mysticdeep.shadow_shovel" : "Lopată de Shadow",
+  "item.mysticdeep.shadow_hoe" : "Fiert de Shadow",
+
+  "item.mysticdeep.marinite_helmet" : "Casca de Marinite",
+  "item.mysticdeep.marinite_chestplate" : "Platoșa de Marinite",
+  "item.mysticdeep.marinite_leggings" : "Pantaloni de Marinite",
+  "item.mysticdeep.marinite_boots" : "Bocanci de Marinite",
+
+  "item.mysticdeep.abyssite_helmet" : "Casca de Abyssite",
+  "item.mysticdeep.abyssite_chestplate" : "Platoșa de Abyssite",
+  "item.mysticdeep.abyssite_leggings" : "Pantaloni de Abyssite",
+  "item.mysticdeep.abyssite_boots" : "Bocanci de Abyssite",
+
+  "item.mysticdeep.earthcore_helmet" : "Casca de Earthcore",
+  "item.mysticdeep.earthcore_chestplate" : "Platoșa de Earthcore",
+  "item.mysticdeep.earthcore_leggings" : "Pantaloni de Earthcore",
+  "item.mysticdeep.earthcore_boots" : "Bocanci de Earthcore",
+
+  "item.mysticdeep.flamestone_helmet" : "Casca de Flamestone",
+  "item.mysticdeep.flamestone_chestplate" : "Platoșa de Flamestone",
+  "item.mysticdeep.flamestone_leggings" : "Pantaloni de Flamestone",
+  "item.mysticdeep.flamestone_boots" : "Bocanci de Flamestone",
+
+  "item.mysticdeep.shadow_helmet" : "Casca de Shadow",
+  "item.mysticdeep.shadow_chestplate" : "Platoșa de Shadow",
+  "item.mysticdeep.shadow_leggings" : "Pantaloni de Shadow",
+  "item.mysticdeep.shadow_boots" : "Bocanci de Shadow",
+
+  "itemgroup.MysticDeep": "Mistic Profund"
+}

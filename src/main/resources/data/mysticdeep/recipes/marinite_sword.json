@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X",
+        "X",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "mysticdeep:marinite_ingot"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:marinite_sword",
+        "count": 1
+    }
+}

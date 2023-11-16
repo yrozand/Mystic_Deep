@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Пиво Шопа",
+  "item.mysticdeep.chope": "Шопа",
+
+  "item.mysticdeep.marinite_raw": "Сырая Маринит",
+
+  "item.mysticdeep.marinite_ingot": "Слиток Маринита",
+  "item.mysticdeep.abyssite_ingot": "Слиток Абиссита",
+  "item.mysticdeep.earthcore_ingot": "Слиток Эрфкора",
+  "item.mysticdeep.flamestone_ingot": "Слиток Пламенного Камня",
+  "item.mysticdeep.shadow_ingot": "Слиток Теней",
+  
+  "item.mysticdeep.marinite_gems": "Камни Маринита",
+  "item.mysticdeep.abyssite_gems": "Камни Абиссита",
+  "item.mysticdeep.earthcore_gems": "Камни Эрфкора",
+  "item.mysticdeep.flamestone_gems": "Камни Пламенного Камня",
+  "item.mysticdeep.shadow_gems": "Камни Теней",
+
+  "block.mysticdeep.raw_marinite_block": "Блок Сырого Маринита",
+  "block.mysticdeep.marinite_block": "Блок Маринита",
+  "block.mysticdeep.abyssite_block": "Блок Абиссита",
+  "block.mysticdeep.earthcore_block": "Блок Эрфкора",
+  "block.mysticdeep.flamestone_block": "Блок Пламенного Камня",
+  "block.mysticdeep.shadow_block": "Блок Теней",
+
+  "block.mysticdeep.marinite_ore_block": "Маринитовая Руда",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Маринитовая Глубокая Сланец Руда",
+  "block.mysticdeep.shadow_ore_block": "Теневая Руда",
+  "block.mysticdeep.flamestone_ore_block": "Руда Пламенного Камня",
+
+  "item.mysticdeep.setsuko_plush": "Мягкая игрушка Setsuko",
+  "item.mysticdeep.demonica_plush": "Мягкая игрушка Démonica",
+  "item.mysticdeep.mysticstess_plush": "Мягкая игрушка Mysticstess",
+  "item.mysticdeep.levraisteeltv_plush": "Мягкая игрушка levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Мягкая игрушка M26G",
+  "item.mysticstess.beer_chope": "Пиво Шопа",
+
+  "item.mysticdeep.marinite_sword" : "Меч Маринита",
+  "item.mysticdeep.marinite_pickaxe" : "Кирка Маринита",
+  "item.mysticdeep.marinite_axe" : "Топор Маринита",
+  "item.mysticdeep.marinite_shovel" : "Лопата Маринита",
+  "item.mysticdeep.marinite_hoe" : "Мотыга Маринита",
+
+  "item.mysticdeep.abyssite_sword" : "Меч Абиссита",
+  "item.mysticdeep.abyssite_pickaxe" : "Кирка Абиссита",
+  "item.mysticdeep.abyssite_axe" : "Топор Абиссита",
+  "item.mysticdeep.abyssite_shovel" : "Лопата Абиссита",
+  "item.mysticdeep.abyssite_hoe" : "Мотыга Абиссита",
+
+  "item.mysticdeep.flamestone_sword" : "Меч Пламенного Камня",
+  "item.mysticdeep.flamestone_pickaxe" : "Кирка Пламенного Камня",
+  "item.mysticdeep.flamestone_axe" : "Топор Пламенного Камня",
+  "item.mysticdeep.flamestone_shovel" : "Лопата Пламенного Камня",
+  "item.mysticdeep.flamestone_hoe" : "Мотыга Пламенного Камня",
+
+  "item.mysticdeep.earthcore_sword" : "Меч Эрфкора",
+  "item.mysticdeep.earthcore_pickaxe" : "Кирка Эрфкора",
+  "item.mysticdeep.earthcore_axe" : "Топор Эрфкора",
+  "item.mysticdeep.earthcore_shovel" : "Лопата Эрфкора",
+  "item.mysticdeep.earthcore_hoe" : "Мотыга Эрфкора",
+
+  "item.mysticdeep.shadow_sword" : "Меч Теней",
+  "item.mysticdeep.shadow_pickaxe" : "Кирка Теней",
+  "item.mysticdeep.shadow_axe" : "Топор Теней",
+  "item.mysticdeep.shadow_shovel" : "Лопата Теней",
+  "item.mysticdeep.shadow_hoe" : "Мотыга Теней",
+
+  "item.mysticdeep.marinite_helmet" : "Шлем Маринита",
+  "item.mysticdeep.marinite_chestplate" : "Нагрудник Маринита",
+  "item.mysticdeep.marinite_leggings" : "Поножи Маринита",
+  "item.mysticdeep.marinite_boots" : "Ботинки Маринита",
+
+  "item.mysticdeep.abyssite_helmet" : "Шлем Абиссита",
+  "item.mysticdeep.abyssite_chestplate" : "Нагрудник Абиссита",
+  "item.mysticdeep.abyssite_leggings" : "Поножи Абиссита",
+  "item.mysticdeep.abyssite_boots" : "Ботинки Абиссита",
+
+  "item.mysticdeep.earthcore_helmet" : "Шлем Эрфкора",
+  "item.mysticdeep.earthcore_chestplate" : "Нагрудник Эрфкора",
+  "item.mysticdeep.earthcore_leggings" : "Поножи Эрфкора",
+  "item.mysticdeep.earthcore_boots" : "Ботинки Эрфкора",
+
+  "item.mysticdeep.flamestone_helmet" : "Шлем Пламенного Камня",
+  "item.mysticdeep.flamestone_chestplate" : "Нагрудник Пламенного Камня",
+  "item.mysticdeep.flamestone_leggings" : "Поножи Пламенного Камня",
+  "item.mysticdeep.flamestone_boots" : "Ботинки Пламенного Камня",
+
+  "item.mysticdeep.shadow_helmet" : "Шлем Теней",
+  "item.mysticdeep.shadow_chestplate" : "Нагрудник Теней",
+  "item.mysticdeep.shadow_leggings" : "Поножи Теней",
+  "item.mysticdeep.shadow_boots" : "Ботинки Теней",
+
+  "itemgroup.MysticDeep": "Мистические Глубины"
+}

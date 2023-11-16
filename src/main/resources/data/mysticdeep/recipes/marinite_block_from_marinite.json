@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "mysticdeep:marinite_block" 
+        }
+    ],
+    "result": {
+        "item":"mysticdeep:marinite_ingot",
+        "count": 9
+    }
+}

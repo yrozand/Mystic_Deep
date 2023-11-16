@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:mysticstess_plush"
+      },
+      "title": "Mysticstess Plush",
+      "description": "An astral witch who will make you potions, one funnier than the other!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mysticdeep:get_an_abyssite_ingot",
+    "criteria": {
+      "has_mysticstess_plush": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mysticdeep:mysticstess_plush"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sends_telemetry_event": false
+  }
+  

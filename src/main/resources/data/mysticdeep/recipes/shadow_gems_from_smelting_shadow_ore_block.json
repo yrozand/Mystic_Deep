@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 0.7,
+    "group": "flamestone_gems",
+    "ingredient": {
+      "item": "mysticdeep:shadow_ore_block"
+    },
+    "result": "mysticdeep:shadow_gems"
+  }

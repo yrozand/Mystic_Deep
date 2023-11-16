@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "mysticdeep",
-	"version": "${version}",
+	"version": "1.0",
 	"name": "Mystic Deep",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
@@ -9,11 +9,11 @@
 		"M26G"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"discord": "https://discord.gg/9mSTq25Hcz ",
 		"sources": "https://github.com/yrozand/Mystic_Deep"
 	},
 	"license": "CC0-1.0",
-	"icon": "src/main/ressources/assets/mysticdeep/icon.png",
+	"icon": "assets/mysticdeep/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

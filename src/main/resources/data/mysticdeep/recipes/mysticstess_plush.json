@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PYP",
+        " P "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:book"
+        },
+        "P": {
+            "item": "mysticdeep:abyssite_ingot"
+        },
+        "Y": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:mysticstess_plush",
+        
+        "count": 1
+    }
+}

@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Bierglas",
+  "item.mysticdeep.chope": "Kruik",
+
+  "item.mysticdeep.marinite_raw": "Rauwe Marinite",
+
+  "item.mysticdeep.marinite_ingot": "Marinite-infuus",
+  "item.mysticdeep.abyssite_ingot": "Abyssite-infuus",
+  "item.mysticdeep.earthcore_ingot": "Earthcore-infuus",
+  "item.mysticdeep.flamestone_ingot": "Flamestone-infuus",
+  "item.mysticdeep.shadow_ingot": "Shadow-infuus",
+  
+  "item.mysticdeep.marinite_gems": "Edelstenen van Marinite",
+  "item.mysticdeep.abyssite_gems": "Edelstenen van Abyssite",
+  "item.mysticdeep.earthcore_gems": "Edelstenen van Earthcore",
+  "item.mysticdeep.flamestone_gems": "Edelstenen van Flamestone",
+  "item.mysticdeep.shadow_gems": "Edelstenen van Shadow",
+
+  "block.mysticdeep.raw_marinite_block": "Blok van Rauwe Marinite",
+  "block.mysticdeep.marinite_block": "Blok van Marinite",
+  "block.mysticdeep.abyssite_block": "Blok van Abyssite",
+  "block.mysticdeep.earthcore_block": "Blok van Earthcore",
+  "block.mysticdeep.flamestone_block": "Blok van Flamestone",
+  "block.mysticdeep.shadow_block": "Blok van Shadow",
+
+  "block.mysticdeep.marinite_ore_block": "Marinite-erts",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Diepsteen Marinite-erts",
+  "block.mysticdeep.shadow_ore_block": "Shadow-erts",
+  "block.mysticdeep.flamestone_ore_block": "Flamestone-erts",
+
+  "item.mysticdeep.setsuko_plush": "Setsuko Knuffel",
+  "item.mysticdeep.demonica_plush": "Demonica Knuffel",
+  "item.mysticdeep.mysticstess_plush": "Mysticstess Knuffel",
+  "item.mysticdeep.levraisteeltv_plush": "levraisteeltv Knuffel",
+  "item.mysticdeep.m26g_plush": "M26G Knuffel",
+  "item.mysticstess.beer_chope": "Bierglas",
+
+  "item.mysticdeep.marinite_sword": "Marinite Zwaard",
+  "item.mysticdeep.marinite_pickaxe": "Marinite Hakebijl",
+  "item.mysticdeep.marinite_axe": "Marinite Bijl",
+  "item.mysticdeep.marinite_shovel": "Marinite Schop",
+  "item.mysticdeep.marinite_hoe": "Marinite Hooivork",
+
+  "item.mysticdeep.abyssite_sword": "Abyssite Zwaard",
+  "item.mysticdeep.abyssite_pickaxe": "Abyssite Hakebijl",
+  "item.mysticdeep.abyssite_axe": "Abyssite Bijl",
+  "item.mysticdeep.abyssite_shovel": "Abyssite Schop",
+  "item.mysticdeep.abyssite_hoe": "Abyssite Hooivork",
+
+  "item.mysticdeep.flamestone_sword": "Flamestone Zwaard",
+  "item.mysticdeep.flamestone_pickaxe": "Flamestone Hakebijl",
+  "item.mysticdeep.flamestone_axe": "Flamestone Bijl",
+  "item.mysticdeep.flamestone_shovel": "Flamestone Schop",
+  "item.mysticdeep.flamestone_hoe": "Flamestone Hooivork",
+
+  "item.mysticdeep.earthcore_sword": "Earthcore Zwaard",
+  "item.mysticdeep.earthcore_pickaxe": "Earthcore Hakebijl",
+  "item.mysticdeep.earthcore_axe": "Earthcore Bijl",
+  "item.mysticdeep.earthcore_shovel": "Earthcore Schop",
+  "item.mysticdeep.earthcore_hoe": "Earthcore Hooivork",
+
+  "item.mysticdeep.shadow_sword": "Shadow Zwaard",
+  "item.mysticdeep.shadow_pickaxe": "Shadow Hakebijl",
+  "item.mysticdeep.shadow_axe": "Shadow Bijl",
+  "item.mysticdeep.shadow_shovel": "Shadow Schop",
+  "item.mysticdeep.shadow_hoe": "Shadow Hooivork",
+
+  "item.mysticdeep.marinite_helmet": "Marinite Helm",
+  "item.mysticdeep.marinite_chestplate": "Marinite Borstplaat",
+  "item.mysticdeep.marinite_leggings": "Marinite Leggings",
+  "item.mysticdeep.marinite_boots": "Marinite Laarzen",
+
+  "item.mysticdeep.abyssite_helmet": "Abyssite Helm",
+  "item.mysticdeep.abyssite_chestplate": "Abyssite Borstplaat",
+  "item.mysticdeep.abyssite_leggings": "Abyssite Leggings",
+  "item.mysticdeep.abyssite_boots": "Abyssite Laarzen",
+
+  "item.mysticdeep.earthcore_helmet": "Earthcore Helm",
+  "item.mysticdeep.earthcore_chestplate": "Earthcore Borstplaat",
+  "item.mysticdeep.earthcore_leggings": "Earthcore Leggings",
+  "item.mysticdeep.earthcore_boots": "Earthcore Laarzen",
+
+  "item.mysticdeep.flamestone_helmet": "Flamestone Helm",
+  "item.mysticdeep.flamestone_chestplate": "Flamestone Borstplaat",
+  "item.mysticdeep.flamestone_leggings": "Flamestone Leggings",
+  "item.mysticdeep.flamestone_boots": "Flamestone Laarzen",
+
+  "item.mysticdeep.shadow_helmet": "Shadow Helm",
+  "item.mysticdeep.shadow_chestplate": "Shadow Borstplaat",
+  "item.mysticdeep.shadow_leggings": "Shadow Leggings",
+  "item.mysticdeep.shadow_boots": "Shadow Laarzen",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

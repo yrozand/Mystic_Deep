@@ -1,0 +1,50 @@
+/enchant @a minecraft:efficiency 5
+/gamemode creative
+/fill 23 -60 19
+/fill 23 -60 19 21 -60 17 minecraft:end_portal
+/kill
+/tp @a 0 100 0
+/locate structure minecraft:stronghold
+/tp @s 192 ~ 1632
+/spawnpoint
+/kill
+/kill @e[type=minecraft:ender_dragon]
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/enchant @a minecraft:efficiency 5
+/kill
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/locate structure minecraft:village_plains
+/tp @s -944 ~ -1056
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode spectator
+/give @a minecraft:item_frame{Invisible:1}
+/give @p item_frame{EntityTag:{Invisible:1b}}
+/summon ArmorStand ~ ~ ~ {ShowArms:1}
+/summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
+/reload
+/spawnpoint
+/locate structure minecraft:stronghold
+/tp @s 64 ~ -1840
+/give @a mysticdeep:shadow_chestplate
+/give @a mysticdeep:shadow_helmet
+/give @a mysticdeep:shadow_boots
+/give @a mysticdeep:shadow_leggings
+/kill @e[type=minecraft:ender_dragon]
+/gamemode creative
+/time set day
+/kill
+/time set day
+/advancement
+/advancement revoke
+/advancement revoke @a everything
+/datapack list available

@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Chope de bière",
+  "item.mysticdeep.chope": "Chope",
+
+  "item.mysticdeep.marinite_raw": "Marinite brut",
+
+  "item.mysticdeep.marinite_ingot": "Lingot de marinite",
+  "item.mysticdeep.abyssite_ingot": "Lingot d'abyssite",
+  "item.mysticdeep.earthcore_ingot": "Lingot de noyau terrestre",
+  "item.mysticdeep.flamestone_ingot": "Lingot de pierre de flamme",
+  "item.mysticdeep.shadow_ingot": "Lingot d'ombre",
+  
+  "item.mysticdeep.marinite_gems": "Gemmes de marinite",
+  "item.mysticdeep.abyssite_gems": "Gemmes d'abyssite",
+  "item.mysticdeep.earthcore_gems": "Gemmes de noyau terrestre",
+  "item.mysticdeep.flamestone_gems": "Gemmes de pierre de flamme",
+  "item.mysticdeep.shadow_gems": "Gemmes d'ombre",
+
+  "block.mysticdeep.raw_marinite_block": "Bloc de marinite brut",
+  "block.mysticdeep.marinite_block": "Bloc de marinite",
+  "block.mysticdeep.abyssite_block": "Bloc d'abyssite",
+  "block.mysticdeep.earthcore_block": "Bloc de noyau terrestre",
+  "block.mysticdeep.flamestone_block": "Bloc de pierre de flamme",
+  "block.mysticdeep.shadow_block": "Bloc d'ombre",
+
+  "block.mysticdeep.marinite_ore_block": "Minerai de marinite",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Minerai de marinite en schiste",
+  "block.mysticdeep.shadow_ore_block": "Minerai d'ombre",
+  "block.mysticdeep.flamestone_ore_block": "Minerai de pierre de flamme",
+
+  "item.mysticdeep.setsuko_plush": "Peluche Setsuko",
+  "item.mysticdeep.demonica_plush": "Peluche Démonica",
+  "item.mysticdeep.mysticstess_plush": "Peluche Mysticstess",
+  "item.mysticdeep.levraisteeltv_plush": "Peluche Levraisteeltv",
+  "item.mysticdeep.m26g_plush": "Peluche M26G",
+  "item.mysticstess.beer_chope": "Chope de bière",
+
+  "item.mysticdeep.marinite_sword" : "Épée de marinite",
+  "item.mysticdeep.marinite_pickaxe" : "Pioche de marinite",
+  "item.mysticdeep.marinite_axe" : "Hache de marinite",
+  "item.mysticdeep.marinite_shovel" : "Pelle de marinite",
+  "item.mysticdeep.marinite_hoe" : "Houe de marinite",
+
+  "item.mysticdeep.abyssite_sword" : "Épée d'abyssite",
+  "item.mysticdeep.abyssite_pickaxe" : "Pioche d'abyssite",
+  "item.mysticdeep.abyssite_axe" : "Hache d'abyssite",
+  "item.mysticdeep.abyssite_shovel" : "Pelle d'abyssite",
+  "item.mysticdeep.abyssite_hoe" : "Houe d'abyssite",
+
+  "item.mysticdeep.flamestone_sword" : "Épée de pierre de flamme",
+  "item.mysticdeep.flamestone_pickaxe" : "Pioche de pierre de flamme",
+  "item.mysticdeep.flamestone_axe" : "Hache de pierre de flamme",
+  "item.mysticdeep.flamestone_shovel" : "Pelle de pierre de flamme",
+  "item.mysticdeep.flamestone_hoe" : "Houe de pierre de flamme",
+
+  "item.mysticdeep.earthcore_sword" : "Épée de noyau terrestre",
+  "item.mysticdeep.earthcore_pickaxe" : "Pioche de noyau terrestre",
+  "item.mysticdeep.earthcore_axe" : "Hache de noyau terrestre",
+  "item.mysticdeep.earthcore_shovel" : "Pelle de noyau terrestre",
+  "item.mysticdeep.earthcore_hoe" : "Houe de noyau terrestre",
+
+  "item.mysticdeep.shadow_sword" : "Épée d'ombre",
+  "item.mysticdeep.shadow_pickaxe" : "Pioche d'ombre",
+  "item.mysticdeep.shadow_axe" : "Hache d'ombre",
+  "item.mysticdeep.shadow_shovel" : "Pelle d'ombre",
+  "item.mysticdeep.shadow_hoe" : "Houe d'ombre",
+
+  "item.mysticdeep.marinite_helmet" : "Casque de marinite",
+  "item.mysticdeep.marinite_chestplate" : "Plastron de marinite",
+  "item.mysticdeep.marinite_leggings" : "Jambières de marinite",
+  "item.mysticdeep.marinite_boots" : "Bottes de marinite",
+
+  "item.mysticdeep.abyssite_helmet" : "Casque d'abyssite",
+  "item.mysticdeep.abyssite_chestplate" : "Plastron d'abyssite",
+  "item.mysticdeep.abyssite_leggings" : "Jambières d'abyssite",
+  "item.mysticdeep.abyssite_boots" : "Bottes d'abyssite",
+
+  "item.mysticdeep.earthcore_helmet" : "Casque de noyau terrestre",
+  "item.mysticdeep.earthcore_chestplate" : "Plastron de noyau terrestre",
+  "item.mysticdeep.earthcore_leggings" : "Jambières de noyau terrestre",
+  "item.mysticdeep.earthcore_boots" : "Bottes de noyau terrestre",
+
+  "item.mysticdeep.flamestone_helmet" : "Casque de pierre de flamme",
+  "item.mysticdeep.flamestone_chestplate" : "Plastron de pierre de flamme",
+  "item.mysticdeep.flamestone_leggings" : "Jambières de pierre de flamme",
+  "item.mysticdeep.flamestone_boots" : "Bottes de pierre de flamme",
+
+  "item.mysticdeep.shadow_helmet" : "Casque d'ombre",
+  "item.mysticdeep.shadow_chestplate" : "Plastron d'ombre",
+  "item.mysticdeep.shadow_leggings" : "Jambières d'ombre",
+  "item.mysticdeep.shadow_boots" : "Bottes d'ombre",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}

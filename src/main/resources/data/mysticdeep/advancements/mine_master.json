@@ -1,0 +1,22 @@
+{
+    "display": {
+      "icon": {
+        "item": "mysticdeep:shadow_ore_block"
+      },
+      "title": "Mine Master",
+      "description": "Mine all the ores",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {},
+    "requirements": [
+      [
+        "mysticdeep:marinite_ore_block",
+        "mysticdeep:flamestone_ore_block",
+        "mysticdeep:shadow_ore_block"
+      ]
+    ]
+  }
+  

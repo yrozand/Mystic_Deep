@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "P#P",
+        "#Y#",
+        "P#P"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticdeep:marinite_block"
+        },
+        "P": {
+            "item": "minecraft:diamond_block"
+        },
+        "Y": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:marinite_gems",
+        "count": 1
+    }
+}

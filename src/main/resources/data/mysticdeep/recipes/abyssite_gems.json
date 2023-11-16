@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#Y#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "Y": {
+            "item": "mysticdeep:marinite_gems"
+        }
+    },
+    "result": {
+        "item": "mysticdeep:abyssite_gems",
+        "count": 1
+    }
+}

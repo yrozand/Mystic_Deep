@@ -1,0 +1,94 @@
+{
+  "item.mysticdeep.beer_chope": "Bierkrug",
+  "item.mysticdeep.chope": "Krughumpen",
+
+  "item.mysticdeep.marinite_raw": "Rohes Marinite",
+
+  "item.mysticdeep.marinite_ingot": "Marinite-Barren",
+  "item.mysticdeep.abyssite_ingot": "Abyssite-Barren",
+  "item.mysticdeep.earthcore_ingot": "Earthcore-Barren",
+  "item.mysticdeep.flamestone_ingot": "Flamestone-Barren",
+  "item.mysticdeep.shadow_ingot": "Schatten-Barren",
+
+  "item.mysticdeep.marinite_gems": "Edelsteine aus Marinite",
+  "item.mysticdeep.abyssite_gems": "Edelsteine aus Abyssite",
+  "item.mysticdeep.earthcore_gems": "Edelsteine aus Earthcore",
+  "item.mysticdeep.flamestone_gems": "Edelsteine aus Flamestone",
+  "item.mysticdeep.shadow_gems": "Edelsteine aus Schatten",
+
+  "block.mysticdeep.raw_marinite_block": "Block aus Rohem Marinite",
+  "block.mysticdeep.marinite_block": "Marinite-Block",
+  "block.mysticdeep.abyssite_block": "Abyssite-Block",
+  "block.mysticdeep.earthcore_block": "Earthcore-Block",
+  "block.mysticdeep.flamestone_block": "Flamestone-Block",
+  "block.mysticdeep.shadow_block": "Schatten-Block",
+
+  "block.mysticdeep.marinite_ore_block": "Marinite-Erz",
+  "block.mysticdeep.deepslate_marinite_ore_block": "Tiefenschiefes Marinite-Erz",
+  "block.mysticdeep.shadow_ore_block": "Schatten-Erz",
+  "block.mysticdeep.flamestone_ore_block": "Flamestone-Erz",
+
+  "item.mysticdeep.setsuko_plush": "Setsuko Plüschtier",
+  "item.mysticdeep.demonica_plush": "Démonica Plüschtier",
+  "item.mysticdeep.mysticstess_plush": "Mystic Stess Plüschtier",
+  "item.mysticdeep.levraisteeltv_plush": "Levraisteeltv Plüschtier",
+  "item.mysticdeep.m26g_plush": "M26G Plüschtier",
+  "item.mysticstess.beer_chope": "Bierkrug Mysticstess",
+
+  "item.mysticdeep.marinite_sword": "Marinite-Schwert",
+  "item.mysticdeep.marinite_pickaxe": "Marinite-Spitzhacke",
+  "item.mysticdeep.marinite_axe": "Marinite-Axt",
+  "item.mysticdeep.marinite_shovel": "Marinite-Schaufel",
+  "item.mysticdeep.marinite_hoe": "Marinite-Hacke",
+
+  "item.mysticdeep.abyssite_sword": "Abyssite-Schwert",
+  "item.mysticdeep.abyssite_pickaxe": "Abyssite-Spitzhacke",
+  "item.mysticdeep.abyssite_axe": "Abyssite-Axt",
+  "item.mysticdeep.abyssite_shovel": "Abyssite-Schaufel",
+  "item.mysticdeep.abyssite_hoe": "Abyssite-Hacke",
+
+  "item.mysticdeep.flamestone_sword": "Flamestone-Schwert",
+  "item.mysticdeep.flamestone_pickaxe": "Flamestone-Spitzhacke",
+  "item.mysticdeep.flamestone_axe": "Flamestone-Axt",
+  "item.mysticdeep.flamestone_shovel": "Flamestone-Schaufel",
+  "item.mysticdeep.flamestone_hoe": "Flamestone-Hacke",
+
+  "item.mysticdeep.earthcore_sword": "Earthcore-Schwert",
+  "item.mysticdeep.earthcore_pickaxe": "Earthcore-Spitzhacke",
+  "item.mysticdeep.earthcore_axe": "Earthcore-Axt",
+  "item.mysticdeep.earthcore_shovel": "Earthcore-Schaufel",
+  "item.mysticdeep.earthcore_hoe": "Earthcore-Hacke",
+
+  "item.mysticdeep.shadow_sword": "Schatten-Schwert",
+  "item.mysticdeep.shadow_pickaxe": "Schatten-Spitzhacke",
+  "item.mysticdeep.shadow_axe": "Schatten-Axt",
+  "item.mysticdeep.shadow_shovel": "Schatten-Schaufel",
+  "item.mysticdeep.shadow_hoe": "Schatten-Hacke",
+
+  "item.mysticdeep.marinite_helmet": "Marinite-Helm",
+  "item.mysticdeep.marinite_chestplate": "Marinite-Brustplatte",
+  "item.mysticdeep.marinite_leggings": "Marinite-Beinpanzer",
+  "item.mysticdeep.marinite_boots": "Marinite-Stiefel",
+
+  "item.mysticdeep.abyssite_helmet": "Abyssite-Helm",
+  "item.mysticdeep.abyssite_chestplate": "Abyssite-Brustplatte",
+  "item.mysticdeep.abyssite_leggings": "Abyssite-Beinpanzer",
+  "item.mysticdeep.abyssite_boots": "Abyssite-Stiefel",
+
+  "item.mysticdeep.earthcore_helmet": "Earthcore-Helm",
+  "item.mysticdeep.earthcore_chestplate": "Earthcore-Brustplatte",
+  "item.mysticdeep.earthcore_leggings": "Earthcore-Beinpanzer",
+  "item.mysticdeep.earthcore_boots": "Earthcore-Stiefel",
+
+  "item.mysticdeep.flamestone_helmet": "Flamestone-Helm",
+  "item.mysticdeep.flamestone_chestplate": "Flamestone-Brustplatte",
+  "item.mysticdeep.flamestone_leggings": "Flamestone-Beinpanzer",
+  "item.mysticdeep.flamestone_boots": "Flamestone-Stiefel",
+
+  "item.mysticdeep.shadow_helmet": "Schatten-Helm",
+  "item.mysticdeep.shadow_chestplate": "Schatten-Brustplatte",
+  "item.mysticdeep.shadow_leggings": "Schatten-Beinpanzer",
+  "item.mysticdeep.shadow_boots": "Schatten-Stiefel",
+
+  "itemgroup.MysticDeep": "Mystic Deep"
+}
